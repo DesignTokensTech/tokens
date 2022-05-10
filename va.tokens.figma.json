@@ -4,31 +4,31 @@
       "title": {
         "description": "Цвет для заголовков и названий секций",
         "type": "color",
-        "value": "#0f172a",
+        "value": "#1e293b",
         "varname": "text-title"
       },
       "primary": {
         "description": "По умолчанию для всего основного текста",
         "type": "color",
-        "value": "#0f172a",
+        "value": "#334155",
         "varname": "text-primary"
       },
       "secondary": {
         "description": "Используется для вспомогательного, второстепенного по значению текста использующегося рядом с основным текстом",
         "type": "color",
-        "value": "#1e293b",
+        "value": "#64748b",
         "varname": "text-secondary"
       },
       "placeholder": {
         "description": "Используется в полях ввода для подсказок",
         "type": "color",
-        "value": "#334155",
+        "value": "#94a3b8",
         "varname": "text-placeholder"
       },
       "disabled": {
         "description": "Для подписей и надписей а так же отдельно стоящего текста в недоступном или неактивном состоянии",
         "type": "color",
-        "value": "#475569",
+        "value": "#94a3b8",
         "varname": "text-disabled"
       },
       "invert": {

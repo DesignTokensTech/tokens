@@ -1,5 +1,1441 @@
 {
-  "Базовые переменные": {
+  "Базовая светлая тема": {
+    "Основная палитра": {
+      "SLATE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 210 / 40% / 98.04%",
+          "varname": "palette-slate-50",
+          "value": "#f8fafc"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 210 / 37.5% / 96.86%",
+          "varname": "palette-slate-75",
+          "value": "#f4f7fa"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 210 / 40% / 96.08%",
+          "varname": "palette-slate-100",
+          "value": "#f1f5f9"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 214 / 31.82% / 91.37%",
+          "varname": "palette-slate-200",
+          "value": "#e2e8f0"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 213 / 26.83% / 83.92%",
+          "varname": "palette-slate-300",
+          "value": "#cbd5e1"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 215 / 20.22% / 65.1%",
+          "varname": "palette-slate-400",
+          "value": "#94a3b8"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 215 / 14.39% / 46.86%",
+          "varname": "palette-slate-500",
+          "value": "#64748b"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 215 / 19.32% / 34.51%",
+          "varname": "palette-slate-600",
+          "value": "#475569"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 215 / 25% / 26.67%",
+          "varname": "palette-slate-700",
+          "value": "#334155"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 217 / 32.58% / 17.45%",
+          "varname": "palette-slate-800",
+          "value": "#1e293b"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 222 / 47.37% / 11.18%",
+          "varname": "palette-slate-900",
+          "value": "#0f172a"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 221 / 60.98% / 8.04%",
+          "varname": "palette-slate-1000",
+          "value": "#081021"
+        }
+      },
+      "NEUTRAL": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 98.04%",
+          "varname": "palette-neutral-50",
+          "value": "#fafafa"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 98.04%",
+          "varname": "palette-neutral-75",
+          "value": "#fafafa"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 96.08%",
+          "varname": "palette-neutral-100",
+          "value": "#f5f5f5"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 89.8%",
+          "varname": "palette-neutral-200",
+          "value": "#e5e5e5"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 83.14%",
+          "varname": "palette-neutral-300",
+          "value": "#d4d4d4"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 63.92%",
+          "varname": "palette-neutral-400",
+          "value": "#a3a3a3"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 45.1%",
+          "varname": "palette-neutral-500",
+          "value": "#737373"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 32.16%",
+          "varname": "palette-neutral-600",
+          "value": "#525252"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 25.1%",
+          "varname": "palette-neutral-700",
+          "value": "#404040"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 14.9%",
+          "varname": "palette-neutral-800",
+          "value": "#262626"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 9.02%",
+          "varname": "palette-neutral-900",
+          "value": "#171717"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 9.02%",
+          "varname": "palette-neutral-1000",
+          "value": "#171717"
+        }
+      },
+      "RED": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 0 / 85.71% / 97.25%",
+          "varname": "palette-red-50",
+          "value": "#fef2f2"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 0 / 85.71% / 97.25%",
+          "varname": "palette-red-75",
+          "value": "#fef2f2"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 0 / 93.33% / 94.12%",
+          "varname": "palette-red-100",
+          "value": "#fee2e2"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 0 / 96.3% / 89.41%",
+          "varname": "palette-red-200",
+          "value": "#fecaca"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 0 / 93.55% / 81.76%",
+          "varname": "palette-red-300",
+          "value": "#fca5a5"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 0 / 90.6% / 70.78%",
+          "varname": "palette-red-400",
+          "value": "#f87171"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 0 / 84.24% / 60.2%",
+          "varname": "palette-red-500",
+          "value": "#ef4444"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 0 / 72.22% / 50.59%",
+          "varname": "palette-red-600",
+          "value": "#dc2626"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 0 / 52.86% / 41.76%",
+          "varname": "palette-red-700",
+          "value": "#b91c1c"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 0 / 38.18% / 35.29%",
+          "varname": "palette-red-800",
+          "value": "#991b1b"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 0 / 62.82% / 30.59%",
+          "varname": "palette-red-900",
+          "value": "#7f1d1d"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 0 / 62.82% / 30.59%",
+          "varname": "palette-red-1000",
+          "value": "#7f1d1d"
+        }
+      },
+      "ORANGE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 33 / 100% / 96.47%",
+          "varname": "palette-orange-50",
+          "value": "#fff7ed"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 33 / 100% / 96.47%",
+          "varname": "palette-orange-75",
+          "value": "#fff7ed"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 34 / 100% / 91.76%",
+          "varname": "palette-orange-100",
+          "value": "#ffedd5"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 32 / 97.67% / 83.14%",
+          "varname": "palette-orange-200",
+          "value": "#fed7aa"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 31 / 97.16% / 72.35%",
+          "varname": "palette-orange-300",
+          "value": "#fdba74"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 27 / 95.98% / 60.98%",
+          "varname": "palette-orange-400",
+          "value": "#fb923c"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 25 / 94.98% / 53.14%",
+          "varname": "palette-orange-500",
+          "value": "#f97316"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 21 / 84.09% / 48.24%",
+          "varname": "palette-orange-600",
+          "value": "#ea580c"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 17 / 59.87% / 40.39%",
+          "varname": "palette-orange-700",
+          "value": "#c2410c"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 15 / 40.24% / 33.73%",
+          "varname": "palette-orange-800",
+          "value": "#9a3412"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 15 / 74.65% / 27.84%",
+          "varname": "palette-orange-900",
+          "value": "#7c2d12"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 15 / 74.65% / 27.84%",
+          "varname": "palette-orange-1000",
+          "value": "#7c2d12"
+        }
+      },
+      "AMBER": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 48 / 100% / 96.08%",
+          "varname": "palette-amber-50",
+          "value": "#fffbeb"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 48 / 100% / 96.08%",
+          "varname": "palette-amber-75",
+          "value": "#fffbeb"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 48 / 96.49% / 88.82%",
+          "varname": "palette-amber-100",
+          "value": "#fef3c7"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 48 / 96.64% / 76.67%",
+          "varname": "palette-amber-200",
+          "value": "#fde68a"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 46 / 96.69% / 64.51%",
+          "varname": "palette-amber-300",
+          "value": "#fcd34d"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 43 / 96.41% / 56.27%",
+          "varname": "palette-amber-400",
+          "value": "#fbbf24"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 38 / 92.13% / 50.2%",
+          "varname": "palette-amber-500",
+          "value": "#f59e0b"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 32 / 73.52% / 43.73%",
+          "varname": "palette-amber-600",
+          "value": "#d97706"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 26 / 53.27% / 37.06%",
+          "varname": "palette-amber-700",
+          "value": "#b45309"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 23 / 37.71% / 31.37%",
+          "varname": "palette-amber-800",
+          "value": "#92400e"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 22 / 77.78% / 26.47%",
+          "varname": "palette-amber-900",
+          "value": "#78350f"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 255 / 37.14% / 34.31%",
+          "varname": "palette-amber-1000",
+          "value": "#78375f"
+        }
+      },
+      "YELLOW": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 55 / 91.67% / 95.29%",
+          "varname": "palette-yellow-50",
+          "value": "#fefce8"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 55 / 91.67% / 95.29%",
+          "varname": "palette-yellow-75",
+          "value": "#fefce8"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 55 / 96.72% / 88.04%",
+          "varname": "palette-yellow-100",
+          "value": "#fef9c3"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 53 / 98.31% / 76.86%",
+          "varname": "palette-yellow-200",
+          "value": "#fef08a"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 50 / 97.85% / 63.53%",
+          "varname": "palette-yellow-300",
+          "value": "#fde047"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 48 / 95.82% / 53.14%",
+          "varname": "palette-yellow-400",
+          "value": "#facc15"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 45 / 84.33% / 47.45%",
+          "varname": "palette-yellow-500",
+          "value": "#eab308"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 41 / 65.13% / 40.39%",
+          "varname": "palette-yellow-600",
+          "value": "#ca8a04"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 35 / 45.03% / 32.94%",
+          "varname": "palette-yellow-700",
+          "value": "#a16207"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 32 / 32.78% / 28.82%",
+          "varname": "palette-yellow-800",
+          "value": "#854d0e"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 28 / 72.52% / 25.69%",
+          "varname": "palette-yellow-900",
+          "value": "#713f12"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 28 / 72.52% / 25.69%",
+          "varname": "palette-yellow-1000",
+          "value": "#713f12"
+        }
+      },
+      "LIME": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 78 / 92% / 95.1%",
+          "varname": "palette-lime-50",
+          "value": "#f7fee7"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 78 / 92% / 95.1%",
+          "varname": "palette-lime-75",
+          "value": "#f7fee7"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 80 / 89.09% / 89.22%",
+          "varname": "palette-lime-100",
+          "value": "#ecfccb"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 81 / 88.46% / 79.61%",
+          "varname": "palette-lime-200",
+          "value": "#d9f99d"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 82 / 84.52% / 67.06%",
+          "varname": "palette-lime-300",
+          "value": "#bef264"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 83 / 77.97% / 55.49%",
+          "varname": "palette-lime-400",
+          "value": "#a3e635"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 84 / 64.08% / 44.31%",
+          "varname": "palette-lime-500",
+          "value": "#84cc16"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 85 / 44.91% / 34.51%",
+          "varname": "palette-lime-600",
+          "value": "#65a30d"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 86 / 78.42% / 27.25%",
+          "varname": "palette-lime-700",
+          "value": "#4d7c0f"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 86 / 68.97% / 22.75%",
+          "varname": "palette-lime-800",
+          "value": "#3f6212"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 88 / 61.17% / 20.2%",
+          "varname": "palette-lime-900",
+          "value": "#365314"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 88 / 61.17% / 20.2%",
+          "varname": "palette-lime-1000",
+          "value": "#365314"
+        }
+      },
+      "GREEN": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 138 / 76.47% / 96.67%",
+          "varname": "palette-green-50",
+          "value": "#f0fdf4"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 138 / 76.47% / 96.67%",
+          "varname": "palette-green-75",
+          "value": "#f0fdf4"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 141 / 84.21% / 92.55%",
+          "varname": "palette-green-100",
+          "value": "#dcfce7"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 141 / 78.95% / 85.1%",
+          "varname": "palette-green-200",
+          "value": "#bbf7d0"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 142 / 76.64% / 73.14%",
+          "varname": "palette-green-300",
+          "value": "#86efac"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 142 / 69.16% / 58.04%",
+          "varname": "palette-green-400",
+          "value": "#4ade80"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 142 / 58.42% / 45.29%",
+          "varname": "palette-green-500",
+          "value": "#22c55e"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 142 / 43.38% / 36.27%",
+          "varname": "palette-green-600",
+          "value": "#16a34a"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 142 / 29.64% / 29.22%",
+          "varname": "palette-green-700",
+          "value": "#15803d"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 143 / 64.23% / 24.12%",
+          "varname": "palette-green-800",
+          "value": "#166534"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 144 / 61.17% / 20.2%",
+          "varname": "palette-green-900",
+          "value": "#14532d"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 144 / 61.17% / 20.2%",
+          "varname": "palette-green-1000",
+          "value": "#14532d"
+        }
+      },
+      "EMERALD": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 152 / 80.95% / 95.88%",
+          "varname": "palette-emerald-50",
+          "value": "#ecfdf5"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 152 / 80.95% / 95.88%",
+          "varname": "palette-emerald-75",
+          "value": "#ecfdf5"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 149 / 80.39% / 90%",
+          "varname": "palette-emerald-100",
+          "value": "#d1fae5"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 152 / 76% / 80.39%",
+          "varname": "palette-emerald-200",
+          "value": "#a7f3d0"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 156 / 71.6% / 66.86%",
+          "varname": "palette-emerald-300",
+          "value": "#6ee7b7"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 158 / 64.37% / 51.57%",
+          "varname": "palette-emerald-400",
+          "value": "#34d399"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 160 / 54.69% / 39.41%",
+          "varname": "palette-emerald-500",
+          "value": "#10b981"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 161 / 40.85% / 30.39%",
+          "varname": "palette-emerald-600",
+          "value": "#059669"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 163 / 93.55% / 24.31%",
+          "varname": "palette-emerald-700",
+          "value": "#047857"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 163 / 88.12% / 19.8%",
+          "varname": "palette-emerald-800",
+          "value": "#065f46"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 164 / 85.71% / 16.47%",
+          "varname": "palette-emerald-900",
+          "value": "#064e3b"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 164 / 85.71% / 16.47%",
+          "varname": "palette-emerald-1000",
+          "value": "#064e3b"
+        }
+      },
+      "TEAL": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 166 / 76.47% / 96.67%",
+          "varname": "palette-teal-50",
+          "value": "#f0fdfa"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 166 / 76.47% / 96.67%",
+          "varname": "palette-teal-75",
+          "value": "#f0fdfa"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 167 / 85.45% / 89.22%",
+          "varname": "palette-teal-100",
+          "value": "#ccfbf1"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 168 / 83.78% / 78.24%",
+          "varname": "palette-teal-200",
+          "value": "#99f6e4"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 171 / 76.92% / 64.31%",
+          "varname": "palette-teal-300",
+          "value": "#5eead4"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 172 / 66.01% / 50.39%",
+          "varname": "palette-teal-400",
+          "value": "#2dd4bf"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 173 / 53.59% / 40%",
+          "varname": "palette-teal-500",
+          "value": "#14b8a6"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 175 / 38.68% / 31.57%",
+          "varname": "palette-teal-600",
+          "value": "#0d9488"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 175 / 77.44% / 26.08%",
+          "varname": "palette-teal-700",
+          "value": "#0f766e"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 176 / 69.37% / 21.76%",
+          "varname": "palette-teal-800",
+          "value": "#115e59"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 176 / 60.82% / 19.02%",
+          "varname": "palette-teal-900",
+          "value": "#134e4a"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 176 / 60.82% / 19.02%",
+          "varname": "palette-teal-1000",
+          "value": "#134e4a"
+        }
+      },
+      "CYAN": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 183 / 100% / 96.27%",
+          "varname": "palette-cyan-50",
+          "value": "#ecfeff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 183 / 100% / 96.27%",
+          "varname": "palette-cyan-75",
+          "value": "#ecfeff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 185 / 95.92% / 90.39%",
+          "varname": "palette-cyan-100",
+          "value": "#cffafe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 186 / 93.55% / 81.76%",
+          "varname": "palette-cyan-200",
+          "value": "#a5f3fc"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 187 / 92.41% / 69.02%",
+          "varname": "palette-cyan-300",
+          "value": "#67e8f9"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 188 / 85.71% / 53.33%",
+          "varname": "palette-cyan-400",
+          "value": "#22d3ee"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 189 / 70.55% / 42.75%",
+          "varname": "palette-cyan-500",
+          "value": "#06b6d4"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 192 / 52.47% / 36.47%",
+          "varname": "palette-cyan-600",
+          "value": "#0891b2"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 193 / 36.93% / 30.98%",
+          "varname": "palette-cyan-700",
+          "value": "#0e7490"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 194 / 69.57% / 27.06%",
+          "varname": "palette-cyan-800",
+          "value": "#155e75"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 196 / 63.64% / 23.73%",
+          "varname": "palette-cyan-900",
+          "value": "#164e63"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 196 / 63.64% / 23.73%",
+          "varname": "palette-cyan-1000",
+          "value": "#164e63"
+        }
+      },
+      "SKY": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 204 / 100% / 97.06%",
+          "varname": "palette-sky-50",
+          "value": "#f0f9ff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 204 / 100% / 97.06%",
+          "varname": "palette-sky-75",
+          "value": "#f0f9ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 204 / 93.75% / 93.73%",
+          "varname": "palette-sky-100",
+          "value": "#e0f2fe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 201 / 94.37% / 86.08%",
+          "varname": "palette-sky-200",
+          "value": "#bae6fd"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 199 / 95.49% / 73.92%",
+          "varname": "palette-sky-300",
+          "value": "#7dd3fc"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 198 / 93.2% / 59.61%",
+          "varname": "palette-sky-400",
+          "value": "#38bdf8"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 199 / 83.27% / 48.43%",
+          "varname": "palette-sky-500",
+          "value": "#0ea5e9"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 200 / 63.75% / 39.41%",
+          "varname": "palette-sky-600",
+          "value": "#0284c7"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 201 / 45.66% / 32.16%",
+          "varname": "palette-sky-700",
+          "value": "#0369a1"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 201 / 34.05% / 27.45%",
+          "varname": "palette-sky-800",
+          "value": "#075985"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 202 / 80.33% / 23.92%",
+          "varname": "palette-sky-900",
+          "value": "#0c4a6e"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 202 / 80.33% / 23.92%",
+          "varname": "palette-sky-1000",
+          "value": "#0c4a6e"
+        }
+      },
+      "BLUE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 214 / 100% / 96.86%",
+          "varname": "palette-blue-50",
+          "value": "#eff6ff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 214 / 100% / 96.86%",
+          "varname": "palette-blue-75",
+          "value": "#eff6ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 214 / 94.59% / 92.75%",
+          "varname": "palette-blue-100",
+          "value": "#dbeafe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 213 / 96.92% / 87.25%",
+          "varname": "palette-blue-200",
+          "value": "#bfdbfe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 212 / 96.36% / 78.43%",
+          "varname": "palette-blue-300",
+          "value": "#93c5fd"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 213 / 93.9% / 67.84%",
+          "varname": "palette-blue-400",
+          "value": "#60a5fa"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 217 / 91.22% / 59.8%",
+          "varname": "palette-blue-500",
+          "value": "#3b82f6"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 221 / 83.19% / 53.33%",
+          "varname": "palette-blue-600",
+          "value": "#2563eb"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 224 / 70.57% / 48.04%",
+          "varname": "palette-blue-700",
+          "value": "#1d4ed8"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 226 / 47.54% / 40.2%",
+          "varname": "palette-blue-800",
+          "value": "#1e40af"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 224 / 31.58% / 32.94%",
+          "varname": "palette-blue-900",
+          "value": "#1e3a8a"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 224 / 31.58% / 32.94%",
+          "varname": "palette-blue-1000",
+          "value": "#1e3a8a"
+        }
+      },
+      "INDIGO": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 226 / 100% / 96.67%",
+          "varname": "palette-indigo-50",
+          "value": "#eef2ff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 226 / 100% / 96.67%",
+          "varname": "palette-indigo-75",
+          "value": "#eef2ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 226 / 100% / 93.92%",
+          "varname": "palette-indigo-100",
+          "value": "#e0e7ff"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 228 / 96.49% / 88.82%",
+          "varname": "palette-indigo-200",
+          "value": "#c7d2fe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 230 / 93.55% / 81.76%",
+          "varname": "palette-indigo-300",
+          "value": "#a5b4fc"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 234 / 89.47% / 73.92%",
+          "varname": "palette-indigo-400",
+          "value": "#818cf8"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 239 / 83.53% / 66.67%",
+          "varname": "palette-indigo-500",
+          "value": "#6366f1"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 243 / 75.36% / 58.63%",
+          "varname": "palette-indigo-600",
+          "value": "#4f46e5"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 245 / 57.94% / 50.59%",
+          "varname": "palette-indigo-700",
+          "value": "#4338ca"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 244 / 38.46% / 41.37%",
+          "varname": "palette-indigo-800",
+          "value": "#3730a3"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 242 / 24.78% / 34.31%",
+          "varname": "palette-indigo-900",
+          "value": "#312e81"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 242 / 24.78% / 34.31%",
+          "varname": "palette-indigo-1000",
+          "value": "#312e81"
+        }
+      },
+      "VIOLET": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 250 / 100% / 97.65%",
+          "varname": "palette-violet-50",
+          "value": "#f5f3ff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 250 / 100% / 97.65%",
+          "varname": "palette-violet-75",
+          "value": "#f5f3ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 251 / 91.3% / 95.49%",
+          "varname": "palette-violet-100",
+          "value": "#ede9fe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 251 / 95.24% / 91.76%",
+          "varname": "palette-violet-200",
+          "value": "#ddd6fe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 252 / 94.74% / 85.1%",
+          "varname": "palette-violet-300",
+          "value": "#c4b5fd"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 91.74% / 76.27%",
+          "varname": "palette-violet-400",
+          "value": "#a78bfa"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 89.53% / 66.27%",
+          "varname": "palette-violet-500",
+          "value": "#8b5cf6"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 83.26% / 57.84%",
+          "varname": "palette-violet-600",
+          "value": "#7c3aed"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 69.96% / 50.39%",
+          "varname": "palette-violet-700",
+          "value": "#6d28d9"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 50.51% / 42.16%",
+          "varname": "palette-violet-800",
+          "value": "#5b21b6"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 36.14% / 34.9%",
+          "varname": "palette-violet-900",
+          "value": "#4c1d95"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 255 / 36.14% / 34.9%",
+          "varname": "palette-violet-1000",
+          "value": "#4c1d95"
+        }
+      },
+      "PURPLE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 98.04%",
+          "varname": "palette-purple-50",
+          "value": "#faf5ff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 98.04%",
+          "varname": "palette-purple-75",
+          "value": "#faf5ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 95.49%",
+          "varname": "palette-purple-100",
+          "value": "#f3e8ff"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 91.76%",
+          "varname": "palette-purple-200",
+          "value": "#e9d5ff"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 97.37% / 85.1%",
+          "varname": "palette-purple-300",
+          "value": "#d8b4fe"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 95.24% / 75.29%",
+          "varname": "palette-purple-400",
+          "value": "#c084fc"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 91.01% / 65.1%",
+          "varname": "palette-purple-500",
+          "value": "#a855f7"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 81.33% / 55.88%",
+          "varname": "palette-purple-600",
+          "value": "#9333ea"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 63.7% / 47.06%",
+          "varname": "palette-purple-700",
+          "value": "#7e22ce"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 43.69% / 39.41%",
+          "varname": "palette-purple-800",
+          "value": "#6b21a8"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 30.84% / 31.96%",
+          "varname": "palette-purple-900",
+          "value": "#581c87"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 255 / 30.84% / 31.96%",
+          "varname": "palette-purple-1000",
+          "value": "#581c87"
+        }
+      },
+      "FUCHSIA": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 97.84%",
+          "varname": "palette-fuchsia-50",
+          "value": "#fdf4ff"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 97.84%",
+          "varname": "palette-fuchsia-75",
+          "value": "#fdf4ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 95.49%",
+          "varname": "palette-fuchsia-100",
+          "value": "#fae8ff"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 95.83% / 90.59%",
+          "varname": "palette-fuchsia-200",
+          "value": "#f5d0fe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 93.1% / 82.94%",
+          "varname": "palette-fuchsia-300",
+          "value": "#f0abfc"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 91.43% / 72.55%",
+          "varname": "palette-fuchsia-400",
+          "value": "#e879f9"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 84.08% / 60.59%",
+          "varname": "palette-fuchsia-500",
+          "value": "#d946ef"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 66.28% / 48.82%",
+          "varname": "palette-fuchsia-600",
+          "value": "#c026d3"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 47.88% / 39.8%",
+          "varname": "palette-fuchsia-700",
+          "value": "#a21caf"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 34.5% / 32.94%",
+          "varname": "palette-fuchsia-800",
+          "value": "#86198f"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 63.64% / 28.04%",
+          "varname": "palette-fuchsia-900",
+          "value": "#701a75"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 255 / 63.64% / 28.04%",
+          "varname": "palette-fuchsia-1000",
+          "value": "#701a75"
+        }
+      },
+      "PINK": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 73.33% / 97.06%",
+          "varname": "palette-pink-50",
+          "value": "#fdf2f8"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 255 / 73.33% / 97.06%",
+          "varname": "palette-pink-75",
+          "value": "#fdf2f8"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 77.78% / 94.71%",
+          "varname": "palette-pink-100",
+          "value": "#fce7f3"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 84.62% / 89.8%",
+          "varname": "palette-pink-200",
+          "value": "#fbcfe8"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 87.1% / 81.76%",
+          "varname": "palette-pink-300",
+          "value": "#f9a8d4"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 85.53% / 70.2%",
+          "varname": "palette-pink-400",
+          "value": "#f472b6"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 81.19% / 60.39%",
+          "varname": "palette-pink-500",
+          "value": "#ec4899"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 71.43% / 50.59%",
+          "varname": "palette-pink-600",
+          "value": "#db2777"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 56.08% / 41.96%",
+          "varname": "palette-pink-700",
+          "value": "#be185d"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 40.61% / 35.29%",
+          "varname": "palette-pink-800",
+          "value": "#9d174d"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 30.14% / 30.39%",
+          "varname": "palette-pink-900",
+          "value": "#831843"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 255 / 30.14% / 30.39%",
+          "varname": "palette-pink-1000",
+          "value": "#831843"
+        }
+      },
+      "ROSE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 97.25%",
+          "varname": "palette-rose-50",
+          "value": "#fff1f2"
+        },
+        "75": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 97.25%",
+          "varname": "palette-rose-75",
+          "value": "#fff1f2"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 94.71%",
+          "varname": "palette-rose-100",
+          "value": "#ffe4e6"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 96.08% / 90%",
+          "varname": "palette-rose-200",
+          "value": "#fecdd3"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 95.7% / 81.76%",
+          "varname": "palette-rose-300",
+          "value": "#fda4af"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 94.52% / 71.37%",
+          "varname": "palette-rose-400",
+          "value": "#fb7185"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 89.16% / 60.2%",
+          "varname": "palette-rose-500",
+          "value": "#f43f5e"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 76.56% / 49.8%",
+          "varname": "palette-rose-600",
+          "value": "#e11d48"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 56.95% / 40.78%",
+          "varname": "palette-rose-700",
+          "value": "#be123c"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 42.34% / 34.71%",
+          "varname": "palette-rose-800",
+          "value": "#9f1239"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 32.96% / 30.39%",
+          "varname": "palette-rose-900",
+          "value": "#881337"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 255 / 32.96% / 30.39%",
+          "varname": "palette-rose-1000",
+          "value": "#881337"
+        }
+      },
+      "BLACK": {
+        "DEFAULT": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 0%",
+          "varname": "palette-black",
+          "value": "#000000"
+        },
+        "half": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 0%",
+          "varname": "palette-black-half",
+          "value": "#00000080"
+        }
+      },
+      "WHITE": {
+        "DEFAULT": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 100%",
+          "varname": "palette-white",
+          "value": "#ffffff"
+        },
+        "half": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 100%",
+          "varname": "palette-white-half",
+          "value": "#ffffff80"
+        }
+      }
+    },
     "Цвета текста": {
       "title": {
         "description": "Цвет для заголовков и названий секций",
@@ -28,7 +1464,7 @@
       "disabled": {
         "description": "Для подписей и надписей а так же отдельно стоящего текста в недоступном или неактивном состоянии",
         "type": "color",
-        "value": "#94a3b8",
+        "value": "#cbd5e1",
         "varname": "text-disabled"
       },
       "invert": {
@@ -42,20 +1478,26 @@
       "page": {
         "description": "Цвет полотна страницы (body)",
         "type": "color",
-        "value": "#f5f5f5",
-        "varname": "body-page"
+        "value": "#fafafa",
+        "varname": "background-page"
       },
       "components": {
         "description": "Основной фон для всех компонент",
         "type": "color",
+        "value": "#ffffff",
+        "varname": "background-components"
+      },
+      "disabled": {
+        "description": "Фон недоступного/неактивного компонента",
+        "type": "color",
         "value": "#fafafa",
-        "varname": "body-components"
+        "varname": "background-disabled"
       },
       "invert": {
         "description": "Для создания контраста в компонентах и элементах",
         "type": "color",
         "value": "#0f172a",
-        "varname": "body-invert"
+        "varname": "background-invert"
       }
     },
     "Ссылки": {
@@ -136,33 +1578,33 @@
         "varname": "secondary-outline"
       }
     },
-    "Опасный цвет": {
+    "Статус опасный": {
       "color": {
         "description": "В состоянии покоя или для элементов такого же типа, смысла или поведения",
         "type": "color",
         "value": "#dc2626",
-        "varname": "error-color"
+        "varname": "danger-color"
       },
       "hover": {
         "description": "Реакция на наведение курсора",
         "type": "color",
         "value": "#b91c1c",
-        "varname": "error-hover"
+        "varname": "danger-hover"
       },
       "active": {
         "description": "Реакция при нажатии и удержании а так же в момент фокуса",
         "type": "color",
         "value": "#991b1b",
-        "varname": "error-active"
+        "varname": "danger-active"
       },
       "outline": {
         "description": "Используется в элементах совместно с текстом",
         "type": "color",
         "value": "#ef4444",
-        "varname": "error-outline"
+        "varname": "danger-outline"
       }
     },
-    "Предупреждающий цвет": {
+    "Статус предупреждающий": {
       "color": {
         "description": "В состоянии покоя или для элементов такого же типа, смысла или поведения",
         "type": "color",
@@ -188,7 +1630,7 @@
         "varname": "warning-outline"
       }
     },
-    "Информационные сообщения": {
+    "Статус информационный": {
       "color": {
         "description": "В состоянии покоя или для элементов такого же типа, смысла или поведения",
         "type": "color",
@@ -214,7 +1656,7 @@
         "varname": "info-outline"
       }
     },
-    "Успешное выполнение или результат": {
+    "Статус успешный": {
       "color": {
         "description": "В состоянии покоя или для элементов такого же типа, смысла или поведения",
         "type": "color",
@@ -240,1759 +1682,768 @@
         "varname": "success-outline"
       }
     },
-    "Элементарные цвета": {
-      "black": {
-        "description": "Идеологический черный",
+    "Цвет обводки": {
+      "base": {
+        "description": "Для подавляющего большинства всех элементов и компонентов",
         "type": "color",
-        "varname": "black",
-        "value": "#171717"
+        "varname": "borders-base-color",
+        "value": "#e2e8f0"
       },
-      "white": {
-        "description": "Идеологический белый",
+      "split": {
+        "description": "Разделительная или дополнительная обводка или линия в компонентах",
         "type": "color",
-        "varname": "white",
-        "value": "#fafafa"
+        "varname": "borders-split-color",
+        "value": "#f1f5f9"
       },
-      "black-half": {
-        "description": "Черный в половину прозрачности",
+      "divider": {
+        "description": "Разделительная или дополнительная обводка или линия в компонентах",
         "type": "color",
-        "varname": "black-half",
-        "value": "#171717"
+        "varname": "borders-divider-color",
+        "value": "#e2e8f0"
       },
-      "white-half": {
-        "description": "Белый в половину прозрачности",
+      "invert": {
+        "description": "Инвертированная версия обводки",
         "type": "color",
-        "varname": "white-half",
-        "value": "#fafafa"
+        "varname": "borders-invert-color",
+        "value": "#1e293b"
       }
     },
-    "Основная палитра": {
-      "SLATE": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 210 / 40% / 98.04%",
-          "varname": "palette-slate-50",
-          "value": "#f8fafc"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 210 / 40% / 98.04%",
-          "varname": "palette-slate-75",
-          "value": "#f8fafc"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 210 / 40% / 96.08%",
-          "varname": "palette-slate-100",
-          "value": "#f1f5f9"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 214 / 31.82% / 91.37%",
-          "varname": "palette-slate-200",
-          "value": "#e2e8f0"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 213 / 26.83% / 83.92%",
-          "varname": "palette-slate-300",
-          "value": "#cbd5e1"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 215 / 20.22% / 65.1%",
-          "varname": "palette-slate-400",
-          "value": "#94a3b8"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 215 / 14.39% / 46.86%",
-          "varname": "palette-slate-500",
-          "value": "#64748b"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 215 / 19.32% / 34.51%",
-          "varname": "palette-slate-600",
-          "value": "#475569"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 215 / 25% / 26.67%",
-          "varname": "palette-slate-700",
-          "value": "#334155"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 217 / 32.58% / 17.45%",
-          "varname": "palette-slate-800",
-          "value": "#1e293b"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 222 / 47.37% / 11.18%",
-          "varname": "palette-slate-900",
-          "value": "#0f172a"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 222 / 47.37% / 11.18%",
-          "varname": "palette-slate-1000",
-          "value": "#0f172a"
+    "Скругления": {
+      "DEFAULT": {
+        "description": "Скругление по умолчанию",
+        "type": "borderRadius",
+        "value": "6px",
+        "varname": "border-radius"
+      },
+      "sm": {
+        "description": "Скругление для мелких элементов размера small или меньше",
+        "type": "borderRadius",
+        "value": "3px",
+        "varname": "border-radius-sm"
+      },
+      "md": {
+        "description": "Скругление для большинства элементов стилизованных под скругления",
+        "type": "borderRadius",
+        "value": "8px",
+        "varname": "border-radius-md"
+      },
+      "lg": {
+        "description": "Скругление для крупных элементов",
+        "type": "borderRadius",
+        "value": "12px",
+        "varname": "border-radius-lg"
+      },
+      "xl": {
+        "description": "Скругление для очень крупных элементов",
+        "type": "borderRadius",
+        "value": "16px",
+        "varname": "border-radius-xl"
+      },
+      "2xl": {
+        "description": "Скругление для очень крупных элементов",
+        "type": "borderRadius",
+        "value": "20px",
+        "varname": "border-radius-2xl"
+      },
+      "3xl": {
+        "description": "Скругление для очень крупных элементов",
+        "type": "borderRadius",
+        "value": "24px",
+        "varname": "border-radius-3xl"
+      }
+    },
+    "Размеры": {
+      "2xs": {
+        "description": "Минимальное возможное расстояние между элементами",
+        "type": "spacing",
+        "value": "2px",
+        "varname": "spacing-2xs"
+      },
+      "xs": {
+        "description": "Расстояние например между пиктограммой и текстом в элементе дерева",
+        "type": "spacing",
+        "value": "4px",
+        "varname": "spacing-xs"
+      },
+      "sm": {
+        "description": "Для контролов форм и элементов",
+        "type": "spacing",
+        "value": "8px",
+        "varname": "spacing-sm"
+      },
+      "md": {
+        "description": "Для небольших блоков и кнопок",
+        "type": "spacing",
+        "value": "24px",
+        "varname": "spacing-md"
+      },
+      "lg": {
+        "description": "Для средних контейнеров",
+        "type": "spacing",
+        "value": "32px",
+        "varname": "spacing-lg"
+      },
+      "xl": {
+        "description": "Для больших контейнеров с несколькими блоками данных включающих например средние контейнеры",
+        "type": "spacing",
+        "value": "48px",
+        "varname": "spacing-xl"
+      },
+      "2xl": {
+        "description": "Для модальных окон и панелей а так же промо страниц",
+        "type": "spacing",
+        "value": "64px",
+        "varname": "spacing-2xl"
+      },
+      "3xl": {
+        "description": "Для модальных окон и панелей",
+        "type": "spacing",
+        "value": "96px",
+        "varname": "spacing-3xl"
+      }
+    },
+    "Высота": {
+      "small": {
+        "description": "Размер для элементов имеющих свойство Small в Ant",
+        "type": "height",
+        "value": "28px",
+        "varname": "height-small"
+      },
+      "medium": {
+        "description": "Размер для элементов имеющих свойство размера Default в Ant",
+        "type": "height",
+        "value": "40px",
+        "varname": "height-medium"
+      },
+      "large": {
+        "description": "Размер для элементов имеющих свойство размера default в Ant",
+        "type": "height",
+        "value": "52px",
+        "varname": "height-large"
+      },
+      "xlarge": {
+        "description": "Размер для элементов требующих особый большой размер, например промо кнопок или супер поля поиска",
+        "type": "height",
+        "value": "64px",
+        "varname": "height-xlarge"
+      }
+    },
+    "Размер флажка и радио": {
+      "DEFAULT": {
+        "description": "В данный момент используется только один размер",
+        "type": "height",
+        "value": "22px",
+        "varname": "checkboxradio"
+      }
+    },
+    "Ant Design": {
+      "h1": {
+        "description": "Заголовок первого уровня",
+        "type": "text",
+        "varname": "ant-text-h1",
+        "value": {
+          "fontSize": 44,
+          "lineHeight": 48,
+          "weight": 600
         }
       },
-      "NEUTRAL": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 98.04%",
-          "varname": "palette-neutral-50",
-          "value": "#fafafa"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 98.04%",
-          "varname": "palette-neutral-75",
-          "value": "#fafafa"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 96.08%",
-          "varname": "palette-neutral-100",
-          "value": "#f5f5f5"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 89.8%",
-          "varname": "palette-neutral-200",
-          "value": "#e5e5e5"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 83.14%",
-          "varname": "palette-neutral-300",
-          "value": "#d4d4d4"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 63.92%",
-          "varname": "palette-neutral-400",
-          "value": "#a3a3a3"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 45.1%",
-          "varname": "palette-neutral-500",
-          "value": "#737373"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 32.16%",
-          "varname": "palette-neutral-600",
-          "value": "#525252"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 25.1%",
-          "varname": "palette-neutral-700",
-          "value": "#404040"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 14.9%",
-          "varname": "palette-neutral-800",
-          "value": "#262626"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 9.02%",
-          "varname": "palette-neutral-900",
-          "value": "#171717"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 0 / 0% / 9.02%",
-          "varname": "palette-neutral-1000",
-          "value": "#171717"
+      "h2": {
+        "description": "Заголовок второго уровня",
+        "type": "text",
+        "varname": "ant-text-h2",
+        "value": {
+          "fontSize": 38,
+          "lineHeight": 46,
+          "weight": 600
         }
       },
-      "RED": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 0 / 85.71% / 97.25%",
-          "varname": "palette-red-50",
-          "value": "#fef2f2"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 0 / 85.71% / 97.25%",
-          "varname": "palette-red-75",
-          "value": "#fef2f2"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 0 / 93.33% / 94.12%",
-          "varname": "palette-red-100",
-          "value": "#fee2e2"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 0 / 96.3% / 89.41%",
-          "varname": "palette-red-200",
-          "value": "#fecaca"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 0 / 93.55% / 81.76%",
-          "varname": "palette-red-300",
-          "value": "#fca5a5"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 0 / 90.6% / 70.78%",
-          "varname": "palette-red-400",
-          "value": "#f87171"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 0 / 84.24% / 60.2%",
-          "varname": "palette-red-500",
-          "value": "#ef4444"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 0 / 72.22% / 50.59%",
-          "varname": "palette-red-600",
-          "value": "#dc2626"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 0 / 52.86% / 41.76%",
-          "varname": "palette-red-700",
-          "value": "#b91c1c"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 0 / 38.18% / 35.29%",
-          "varname": "palette-red-800",
-          "value": "#991b1b"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 0 / 62.82% / 30.59%",
-          "varname": "palette-red-900",
-          "value": "#7f1d1d"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 0 / 62.82% / 30.59%",
-          "varname": "palette-red-1000",
-          "value": "#7f1d1d"
+      "h3": {
+        "description": "Заголовок третьего уровня",
+        "type": "text",
+        "varname": "ant-text-h3",
+        "value": {
+          "fontSize": 32,
+          "lineHeight": 40,
+          "weight": 600
         }
       },
-      "ORANGE": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 33 / 100% / 96.47%",
-          "varname": "palette-orange-50",
-          "value": "#fff7ed"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 33 / 100% / 96.47%",
-          "varname": "palette-orange-75",
-          "value": "#fff7ed"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 34 / 100% / 91.76%",
-          "varname": "palette-orange-100",
-          "value": "#ffedd5"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 32 / 97.67% / 83.14%",
-          "varname": "palette-orange-200",
-          "value": "#fed7aa"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 31 / 97.16% / 72.35%",
-          "varname": "palette-orange-300",
-          "value": "#fdba74"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 27 / 95.98% / 60.98%",
-          "varname": "palette-orange-400",
-          "value": "#fb923c"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 25 / 94.98% / 53.14%",
-          "varname": "palette-orange-500",
-          "value": "#f97316"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 21 / 84.09% / 48.24%",
-          "varname": "palette-orange-600",
-          "value": "#ea580c"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 17 / 59.87% / 40.39%",
-          "varname": "palette-orange-700",
-          "value": "#c2410c"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 15 / 40.24% / 33.73%",
-          "varname": "palette-orange-800",
-          "value": "#9a3412"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 15 / 74.65% / 27.84%",
-          "varname": "palette-orange-900",
-          "value": "#7c2d12"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 15 / 74.65% / 27.84%",
-          "varname": "palette-orange-1000",
-          "value": "#7c2d12"
+      "h4": {
+        "description": "Заголовок четвертого уровня",
+        "type": "text",
+        "varname": "ant-text-h4",
+        "value": {
+          "fontSize": 28,
+          "lineHeight": 36,
+          "weight": 600
         }
       },
-      "AMBER": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 48 / 100% / 96.08%",
-          "varname": "palette-amber-50",
-          "value": "#fffbeb"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 48 / 100% / 96.08%",
-          "varname": "palette-amber-75",
-          "value": "#fffbeb"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 48 / 96.49% / 88.82%",
-          "varname": "palette-amber-100",
-          "value": "#fef3c7"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 48 / 96.64% / 76.67%",
-          "varname": "palette-amber-200",
-          "value": "#fde68a"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 46 / 96.69% / 64.51%",
-          "varname": "palette-amber-300",
-          "value": "#fcd34d"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 43 / 96.41% / 56.27%",
-          "varname": "palette-amber-400",
-          "value": "#fbbf24"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 38 / 92.13% / 50.2%",
-          "varname": "palette-amber-500",
-          "value": "#f59e0b"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 32 / 73.52% / 43.73%",
-          "varname": "palette-amber-600",
-          "value": "#d97706"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 26 / 53.27% / 37.06%",
-          "varname": "palette-amber-700",
-          "value": "#b45309"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 23 / 37.71% / 31.37%",
-          "varname": "palette-amber-800",
-          "value": "#92400e"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 22 / 77.78% / 26.47%",
-          "varname": "palette-amber-900",
-          "value": "#78350f"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 255 / 37.14% / 34.31%",
-          "varname": "palette-amber-1000",
-          "value": "#78375f"
+      "h5": {
+        "description": "Заголовок пятого уровня",
+        "type": "text",
+        "varname": "ant-text-h5",
+        "value": {
+          "fontSize": 24,
+          "lineHeight": 32,
+          "weight": 600
         }
       },
-      "YELLOW": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 55 / 91.67% / 95.29%",
-          "varname": "palette-yellow-50",
-          "value": "#fefce8"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 55 / 91.67% / 95.29%",
-          "varname": "palette-yellow-75",
-          "value": "#fefce8"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 55 / 96.72% / 88.04%",
-          "varname": "palette-yellow-100",
-          "value": "#fef9c3"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 53 / 98.31% / 76.86%",
-          "varname": "palette-yellow-200",
-          "value": "#fef08a"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 50 / 97.85% / 63.53%",
-          "varname": "palette-yellow-300",
-          "value": "#fde047"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 48 / 95.82% / 53.14%",
-          "varname": "palette-yellow-400",
-          "value": "#facc15"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 45 / 84.33% / 47.45%",
-          "varname": "palette-yellow-500",
-          "value": "#eab308"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 41 / 65.13% / 40.39%",
-          "varname": "palette-yellow-600",
-          "value": "#ca8a04"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 35 / 45.03% / 32.94%",
-          "varname": "palette-yellow-700",
-          "value": "#a16207"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 32 / 32.78% / 28.82%",
-          "varname": "palette-yellow-800",
-          "value": "#854d0e"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 28 / 72.52% / 25.69%",
-          "varname": "palette-yellow-900",
-          "value": "#713f12"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 28 / 72.52% / 25.69%",
-          "varname": "palette-yellow-1000",
-          "value": "#713f12"
+      "base": {
+        "description": "Обычный текст для всех случаев",
+        "type": "text",
+        "varname": "ant-text-base",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 400
         }
       },
-      "LIME": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 78 / 92% / 95.1%",
-          "varname": "palette-lime-50",
-          "value": "#f7fee7"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 78 / 92% / 95.1%",
-          "varname": "palette-lime-75",
-          "value": "#f7fee7"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 80 / 89.09% / 89.22%",
-          "varname": "palette-lime-100",
-          "value": "#ecfccb"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 81 / 88.46% / 79.61%",
-          "varname": "palette-lime-200",
-          "value": "#d9f99d"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 82 / 84.52% / 67.06%",
-          "varname": "palette-lime-300",
-          "value": "#bef264"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 83 / 77.97% / 55.49%",
-          "varname": "palette-lime-400",
-          "value": "#a3e635"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 84 / 64.08% / 44.31%",
-          "varname": "palette-lime-500",
-          "value": "#84cc16"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 85 / 44.91% / 34.51%",
-          "varname": "palette-lime-600",
-          "value": "#65a30d"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 86 / 78.42% / 27.25%",
-          "varname": "palette-lime-700",
-          "value": "#4d7c0f"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 86 / 68.97% / 22.75%",
-          "varname": "palette-lime-800",
-          "value": "#3f6212"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 88 / 61.17% / 20.2%",
-          "varname": "palette-lime-900",
-          "value": "#365314"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 88 / 61.17% / 20.2%",
-          "varname": "palette-lime-1000",
-          "value": "#365314"
+      "strong": {
+        "description": "Полужирное начертание для акцента",
+        "type": "text",
+        "varname": "ant-text-strong",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 600
         }
       },
-      "GREEN": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 138 / 76.47% / 96.67%",
-          "varname": "palette-green-50",
-          "value": "#f0fdf4"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 138 / 76.47% / 96.67%",
-          "varname": "palette-green-75",
-          "value": "#f0fdf4"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 141 / 84.21% / 92.55%",
-          "varname": "palette-green-100",
-          "value": "#dcfce7"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 141 / 78.95% / 85.1%",
-          "varname": "palette-green-200",
-          "value": "#bbf7d0"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 142 / 76.64% / 73.14%",
-          "varname": "palette-green-300",
-          "value": "#86efac"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 142 / 69.16% / 58.04%",
-          "varname": "palette-green-400",
-          "value": "#4ade80"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 142 / 58.42% / 45.29%",
-          "varname": "palette-green-500",
-          "value": "#22c55e"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 142 / 43.38% / 36.27%",
-          "varname": "palette-green-600",
-          "value": "#16a34a"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 142 / 29.64% / 29.22%",
-          "varname": "palette-green-700",
-          "value": "#15803d"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 143 / 64.23% / 24.12%",
-          "varname": "palette-green-800",
-          "value": "#166534"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 144 / 61.17% / 20.2%",
-          "varname": "palette-green-900",
-          "value": "#14532d"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 144 / 61.17% / 20.2%",
-          "varname": "palette-green-1000",
-          "value": "#14532d"
+      "code": {
+        "description": "Для блоков <CODE> и подобных",
+        "type": "text",
+        "varname": "ant-text-code",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 400
         }
       },
-      "EMERALD": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 152 / 80.95% / 95.88%",
-          "varname": "palette-emerald-50",
-          "value": "#ecfdf5"
+      "H1": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.9",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "75": {
-          "type": "color",
-          "description": "HSL: 152 / 80.95% / 95.88%",
-          "varname": "palette-emerald-75",
-          "value": "#ecfdf5"
+        "type": "typography"
+      },
+      "H2": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.1",
+          "fontSize": "$fontSize.8",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "100": {
-          "type": "color",
-          "description": "HSL: 149 / 80.39% / 90%",
-          "varname": "palette-emerald-100",
-          "value": "#d1fae5"
+        "type": "typography"
+      },
+      "H3": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.2",
+          "fontSize": "$fontSize.7",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "200": {
-          "type": "color",
-          "description": "HSL: 152 / 76% / 80.39%",
-          "varname": "palette-emerald-200",
-          "value": "#a7f3d0"
+        "type": "typography"
+      },
+      "H4": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.3",
+          "fontSize": "$fontSize.6",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "300": {
-          "type": "color",
-          "description": "HSL: 156 / 71.6% / 66.86%",
-          "varname": "palette-emerald-300",
-          "value": "#6ee7b7"
+        "type": "typography"
+      },
+      "H5": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.4",
+          "fontSize": "$fontSize.5",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "400": {
-          "type": "color",
-          "description": "HSL: 158 / 64.37% / 51.57%",
-          "varname": "palette-emerald-400",
-          "value": "#34d399"
+        "type": "typography"
+      },
+      "Базовый текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-1",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "500": {
-          "type": "color",
-          "description": "HSL: 160 / 54.69% / 39.41%",
-          "varname": "palette-emerald-500",
-          "value": "#10b981"
+        "type": "typography",
+        "description": "Обычный текст для всех случаев"
+      },
+      "Выделенный текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "600": {
-          "type": "color",
-          "description": "HSL: 161 / 40.85% / 30.39%",
-          "varname": "palette-emerald-600",
-          "value": "#059669"
+        "type": "typography",
+        "description": "Полужирное начертание для акцента"
+      },
+      "Код": {
+        "value": {
+          "fontFamily": "$fontFamilies.courier-new",
+          "fontWeight": "$fontWeights.courier-new-2",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "700": {
-          "type": "color",
-          "description": "HSL: 163 / 93.55% / 24.31%",
-          "varname": "palette-emerald-700",
-          "value": "#047857"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 163 / 88.12% / 19.8%",
-          "varname": "palette-emerald-800",
-          "value": "#065f46"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 164 / 85.71% / 16.47%",
-          "varname": "palette-emerald-900",
-          "value": "#064e3b"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 164 / 85.71% / 16.47%",
-          "varname": "palette-emerald-1000",
-          "value": "#064e3b"
+        "type": "typography",
+        "description": "Для блоков <CODE> и подобных"
+      }
+    },
+    "Функциональный текст": {
+      "pagetitle": {
+        "description": "Название страницы/раздела/портала или сайта",
+        "type": "text",
+        "varname": "text-pagetitle",
+        "value": {
+          "fontSize": 32,
+          "lineHeight": 38,
+          "weight": 600
         }
       },
-      "TEAL": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 166 / 76.47% / 96.67%",
-          "varname": "palette-teal-50",
-          "value": "#f0fdfa"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 166 / 76.47% / 96.67%",
-          "varname": "palette-teal-75",
-          "value": "#f0fdfa"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 167 / 85.45% / 89.22%",
-          "varname": "palette-teal-100",
-          "value": "#ccfbf1"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 168 / 83.78% / 78.24%",
-          "varname": "palette-teal-200",
-          "value": "#99f6e4"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 171 / 76.92% / 64.31%",
-          "varname": "palette-teal-300",
-          "value": "#5eead4"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 172 / 66.01% / 50.39%",
-          "varname": "palette-teal-400",
-          "value": "#2dd4bf"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 173 / 53.59% / 40%",
-          "varname": "palette-teal-500",
-          "value": "#14b8a6"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 175 / 38.68% / 31.57%",
-          "varname": "palette-teal-600",
-          "value": "#0d9488"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 175 / 77.44% / 26.08%",
-          "varname": "palette-teal-700",
-          "value": "#0f766e"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 176 / 69.37% / 21.76%",
-          "varname": "palette-teal-800",
-          "value": "#115e59"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 176 / 60.82% / 19.02%",
-          "varname": "palette-teal-900",
-          "value": "#134e4a"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 176 / 60.82% / 19.02%",
-          "varname": "palette-teal-1000",
-          "value": "#134e4a"
+      "globalsection": {
+        "description": "Если на странице более одного раздела",
+        "type": "text",
+        "varname": "text-section",
+        "value": {
+          "fontSize": 28,
+          "lineHeight": 32,
+          "weight": 600
         }
       },
-      "CYAN": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 183 / 100% / 96.27%",
-          "varname": "palette-cyan-50",
-          "value": "#ecfeff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 183 / 100% / 96.27%",
-          "varname": "palette-cyan-75",
-          "value": "#ecfeff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 185 / 95.92% / 90.39%",
-          "varname": "palette-cyan-100",
-          "value": "#cffafe"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 186 / 93.55% / 81.76%",
-          "varname": "palette-cyan-200",
-          "value": "#a5f3fc"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 187 / 92.41% / 69.02%",
-          "varname": "palette-cyan-300",
-          "value": "#67e8f9"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 188 / 85.71% / 53.33%",
-          "varname": "palette-cyan-400",
-          "value": "#22d3ee"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 189 / 70.55% / 42.75%",
-          "varname": "palette-cyan-500",
-          "value": "#06b6d4"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 192 / 52.47% / 36.47%",
-          "varname": "palette-cyan-600",
-          "value": "#0891b2"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 193 / 36.93% / 30.98%",
-          "varname": "palette-cyan-700",
-          "value": "#0e7490"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 194 / 69.57% / 27.06%",
-          "varname": "palette-cyan-800",
-          "value": "#155e75"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 196 / 63.64% / 23.73%",
-          "varname": "palette-cyan-900",
-          "value": "#164e63"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 196 / 63.64% / 23.73%",
-          "varname": "palette-cyan-1000",
-          "value": "#164e63"
+      "subsection": {
+        "description": "Крупный раздел на странице",
+        "type": "text",
+        "varname": "text-subsection",
+        "value": {
+          "fontSize": 24,
+          "lineHeight": 32,
+          "weight": 600
         }
       },
-      "SKY": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 204 / 100% / 97.06%",
-          "varname": "palette-sky-50",
-          "value": "#f0f9ff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 204 / 100% / 97.06%",
-          "varname": "palette-sky-75",
-          "value": "#f0f9ff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 204 / 93.75% / 93.73%",
-          "varname": "palette-sky-100",
-          "value": "#e0f2fe"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 201 / 94.37% / 86.08%",
-          "varname": "palette-sky-200",
-          "value": "#bae6fd"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 199 / 95.49% / 73.92%",
-          "varname": "palette-sky-300",
-          "value": "#7dd3fc"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 198 / 93.2% / 59.61%",
-          "varname": "palette-sky-400",
-          "value": "#38bdf8"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 199 / 83.27% / 48.43%",
-          "varname": "palette-sky-500",
-          "value": "#0ea5e9"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 200 / 63.75% / 39.41%",
-          "varname": "palette-sky-600",
-          "value": "#0284c7"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 201 / 45.66% / 32.16%",
-          "varname": "palette-sky-700",
-          "value": "#0369a1"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 201 / 34.05% / 27.45%",
-          "varname": "palette-sky-800",
-          "value": "#075985"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 202 / 80.33% / 23.92%",
-          "varname": "palette-sky-900",
-          "value": "#0c4a6e"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 202 / 80.33% / 23.92%",
-          "varname": "palette-sky-1000",
-          "value": "#0c4a6e"
+      "block": {
+        "description": "Заголовок блока формы или виджета",
+        "type": "text",
+        "varname": "text-block",
+        "value": {
+          "fontSize": 20,
+          "lineHeight": 28,
+          "weight": 600
         }
       },
-      "BLUE": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 214 / 100% / 96.86%",
-          "varname": "palette-blue-50",
-          "value": "#eff6ff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 214 / 100% / 96.86%",
-          "varname": "palette-blue-75",
-          "value": "#eff6ff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 214 / 94.59% / 92.75%",
-          "varname": "palette-blue-100",
-          "value": "#dbeafe"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 213 / 96.92% / 87.25%",
-          "varname": "palette-blue-200",
-          "value": "#bfdbfe"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 212 / 96.36% / 78.43%",
-          "varname": "palette-blue-300",
-          "value": "#93c5fd"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 213 / 93.9% / 67.84%",
-          "varname": "palette-blue-400",
-          "value": "#60a5fa"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 217 / 91.22% / 59.8%",
-          "varname": "palette-blue-500",
-          "value": "#3b82f6"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 221 / 83.19% / 53.33%",
-          "varname": "palette-blue-600",
-          "value": "#2563eb"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 224 / 70.57% / 48.04%",
-          "varname": "palette-blue-700",
-          "value": "#1d4ed8"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 226 / 47.54% / 40.2%",
-          "varname": "palette-blue-800",
-          "value": "#1e40af"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 224 / 31.58% / 32.94%",
-          "varname": "palette-blue-900",
-          "value": "#1e3a8a"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 224 / 31.58% / 32.94%",
-          "varname": "palette-blue-1000",
-          "value": "#1e3a8a"
+      "large": {
+        "description": "Для акцентации и использования совместно с группой контролов например с радио-группой",
+        "type": "text",
+        "varname": "text-large",
+        "value": {
+          "fontSize": 20,
+          "lineHeight": 28,
+          "weight": 400
         }
       },
-      "INDIGO": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 226 / 100% / 96.67%",
-          "varname": "palette-indigo-50",
-          "value": "#eef2ff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 226 / 100% / 96.67%",
-          "varname": "palette-indigo-75",
-          "value": "#eef2ff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 226 / 100% / 93.92%",
-          "varname": "palette-indigo-100",
-          "value": "#e0e7ff"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 228 / 96.49% / 88.82%",
-          "varname": "palette-indigo-200",
-          "value": "#c7d2fe"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 230 / 93.55% / 81.76%",
-          "varname": "palette-indigo-300",
-          "value": "#a5b4fc"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 234 / 89.47% / 73.92%",
-          "varname": "palette-indigo-400",
-          "value": "#818cf8"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 239 / 83.53% / 66.67%",
-          "varname": "palette-indigo-500",
-          "value": "#6366f1"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 243 / 75.36% / 58.63%",
-          "varname": "palette-indigo-600",
-          "value": "#4f46e5"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 245 / 57.94% / 50.59%",
-          "varname": "palette-indigo-700",
-          "value": "#4338ca"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 244 / 38.46% / 41.37%",
-          "varname": "palette-indigo-800",
-          "value": "#3730a3"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 242 / 24.78% / 34.31%",
-          "varname": "palette-indigo-900",
-          "value": "#312e81"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 242 / 24.78% / 34.31%",
-          "varname": "palette-indigo-1000",
-          "value": "#312e81"
+      "base": {
+        "description": "Самый базовый текст. Совпадает с Ant.Design и TW",
+        "type": "text",
+        "varname": "text-base",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 400
         }
       },
-      "VIOLET": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 250 / 100% / 97.65%",
-          "varname": "palette-violet-50",
-          "value": "#f5f3ff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 250 / 100% / 97.65%",
-          "varname": "palette-violet-75",
-          "value": "#f5f3ff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 251 / 91.3% / 95.49%",
-          "varname": "palette-violet-100",
-          "value": "#ede9fe"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 251 / 95.24% / 91.76%",
-          "varname": "palette-violet-200",
-          "value": "#ddd6fe"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 252 / 94.74% / 85.1%",
-          "varname": "palette-violet-300",
-          "value": "#c4b5fd"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 255 / 91.74% / 76.27%",
-          "varname": "palette-violet-400",
-          "value": "#a78bfa"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 255 / 89.53% / 66.27%",
-          "varname": "palette-violet-500",
-          "value": "#8b5cf6"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 255 / 83.26% / 57.84%",
-          "varname": "palette-violet-600",
-          "value": "#7c3aed"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 255 / 69.96% / 50.39%",
-          "varname": "palette-violet-700",
-          "value": "#6d28d9"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 255 / 50.51% / 42.16%",
-          "varname": "palette-violet-800",
-          "value": "#5b21b6"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 255 / 36.14% / 34.9%",
-          "varname": "palette-violet-900",
-          "value": "#4c1d95"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 255 / 36.14% / 34.9%",
-          "varname": "palette-violet-1000",
-          "value": "#4c1d95"
+      "strong": {
+        "description": "Акцентирование",
+        "type": "text",
+        "varname": "text-strong",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 600
         }
       },
-      "PURPLE": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 98.04%",
-          "varname": "palette-purple-50",
-          "value": "#faf5ff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 98.04%",
-          "varname": "palette-purple-75",
-          "value": "#faf5ff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 95.49%",
-          "varname": "palette-purple-100",
-          "value": "#f3e8ff"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 91.76%",
-          "varname": "palette-purple-200",
-          "value": "#e9d5ff"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 255 / 97.37% / 85.1%",
-          "varname": "palette-purple-300",
-          "value": "#d8b4fe"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 255 / 95.24% / 75.29%",
-          "varname": "palette-purple-400",
-          "value": "#c084fc"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 255 / 91.01% / 65.1%",
-          "varname": "palette-purple-500",
-          "value": "#a855f7"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 255 / 81.33% / 55.88%",
-          "varname": "palette-purple-600",
-          "value": "#9333ea"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 255 / 63.7% / 47.06%",
-          "varname": "palette-purple-700",
-          "value": "#7e22ce"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 255 / 43.69% / 39.41%",
-          "varname": "palette-purple-800",
-          "value": "#6b21a8"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 255 / 30.84% / 31.96%",
-          "varname": "palette-purple-900",
-          "value": "#581c87"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 255 / 30.84% / 31.96%",
-          "varname": "palette-purple-1000",
-          "value": "#581c87"
+      "sm": {
+        "description": "Подсказки и дополнительные комментарии",
+        "type": "text",
+        "varname": "text-sm",
+        "value": {
+          "fontSize": 14,
+          "lineHeight": 18,
+          "weight": 400
         }
       },
-      "FUCHSIA": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 97.84%",
-          "varname": "palette-fuchsia-50",
-          "value": "#fdf4ff"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 97.84%",
-          "varname": "palette-fuchsia-75",
-          "value": "#fdf4ff"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 95.49%",
-          "varname": "palette-fuchsia-100",
-          "value": "#fae8ff"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 255 / 95.83% / 90.59%",
-          "varname": "palette-fuchsia-200",
-          "value": "#f5d0fe"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 255 / 93.1% / 82.94%",
-          "varname": "palette-fuchsia-300",
-          "value": "#f0abfc"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 255 / 91.43% / 72.55%",
-          "varname": "palette-fuchsia-400",
-          "value": "#e879f9"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 255 / 84.08% / 60.59%",
-          "varname": "palette-fuchsia-500",
-          "value": "#d946ef"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 255 / 66.28% / 48.82%",
-          "varname": "palette-fuchsia-600",
-          "value": "#c026d3"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 255 / 47.88% / 39.8%",
-          "varname": "palette-fuchsia-700",
-          "value": "#a21caf"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 255 / 34.5% / 32.94%",
-          "varname": "palette-fuchsia-800",
-          "value": "#86198f"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 255 / 63.64% / 28.04%",
-          "varname": "palette-fuchsia-900",
-          "value": "#701a75"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 255 / 63.64% / 28.04%",
-          "varname": "palette-fuchsia-1000",
-          "value": "#701a75"
+      "xs": {
+        "description": "Крайне мелкий текст для использования в футере или аннотаций",
+        "type": "text",
+        "varname": "text-xs",
+        "value": {
+          "fontSize": 12,
+          "lineHeight": 16,
+          "weight": 400
         }
       },
-      "PINK": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 255 / 73.33% / 97.06%",
-          "varname": "palette-pink-50",
-          "value": "#fdf2f8"
+      "Название страницы": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.6",
+          "fontSize": "$fontSize.7",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "75": {
-          "type": "color",
-          "description": "HSL: 255 / 73.33% / 97.06%",
-          "varname": "palette-pink-75",
-          "value": "#fdf2f8"
+        "type": "typography"
+      },
+      "Раздел": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.4",
+          "fontSize": "$fontSize.6",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "100": {
-          "type": "color",
-          "description": "HSL: 255 / 77.78% / 94.71%",
-          "varname": "palette-pink-100",
-          "value": "#fce7f3"
+        "type": "typography",
+        "description": "Если на странице более одного раздела"
+      },
+      "Подраздел": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.4",
+          "fontSize": "$fontSize.5",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "200": {
-          "type": "color",
-          "description": "HSL: 255 / 84.62% / 89.8%",
-          "varname": "palette-pink-200",
-          "value": "#fbcfe8"
+        "type": "typography",
+        "description": "Крупный раздел на странице"
+      },
+      "Блок": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.7",
+          "fontSize": "$fontSize.4",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "300": {
-          "type": "color",
-          "description": "HSL: 255 / 87.1% / 81.76%",
-          "varname": "palette-pink-300",
-          "value": "#f9a8d4"
+        "type": "typography",
+        "description": "Заголовок блока формы или виджета"
+      },
+      "Крупный текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-1",
+          "lineHeight": "$lineHeights.7",
+          "fontSize": "$fontSize.3",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "400": {
-          "type": "color",
-          "description": "HSL: 255 / 85.53% / 70.2%",
-          "varname": "palette-pink-400",
-          "value": "#f472b6"
+        "type": "typography",
+        "description": "Для использования совместно с группой контролов например с радио-группой"
+      },
+      "Обычный текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-1",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "500": {
-          "type": "color",
-          "description": "HSL: 255 / 81.19% / 60.39%",
-          "varname": "palette-pink-500",
-          "value": "#ec4899"
+        "type": "typography",
+        "description": "Самый базовый текст. Совпадает с Ant.Design "
+      },
+      "Выделенный текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "600": {
-          "type": "color",
-          "description": "HSL: 255 / 71.43% / 50.59%",
-          "varname": "palette-pink-600",
-          "value": "#db2777"
+        "type": "typography",
+        "description": "Акцентирование"
+      },
+      "Уменьшенный текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-1",
+          "lineHeight": "$lineHeights.8",
+          "fontSize": "$fontSize.1",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "700": {
-          "type": "color",
-          "description": "HSL: 255 / 56.08% / 41.96%",
-          "varname": "palette-pink-700",
-          "value": "#be185d"
+        "type": "typography",
+        "description": "Подсказки и дополнительные комментарии"
+      },
+      "Мелкий текст": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-1",
+          "lineHeight": "$lineHeights.9",
+          "fontSize": "$fontSize.0",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
         },
-        "800": {
-          "type": "color",
-          "description": "HSL: 255 / 40.61% / 35.29%",
-          "varname": "palette-pink-800",
-          "value": "#9d174d"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 255 / 30.14% / 30.39%",
-          "varname": "palette-pink-900",
-          "value": "#831843"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 255 / 30.14% / 30.39%",
-          "varname": "palette-pink-1000",
-          "value": "#831843"
+        "type": "typography",
+        "description": "Крайне мелкий текст для использования в футере или аннотаций"
+      }
+    },
+    "Компонентный текст": {
+      "button": {
+        "description": "Лейблы кнопок",
+        "type": "text",
+        "varname": "text-button-title",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 600
         }
       },
-      "ROSE": {
-        "50": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 97.25%",
-          "varname": "palette-rose-50",
-          "value": "#fff1f2"
-        },
-        "75": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 97.25%",
-          "varname": "palette-rose-75",
-          "value": "#fff1f2"
-        },
-        "100": {
-          "type": "color",
-          "description": "HSL: 255 / 100% / 94.71%",
-          "varname": "palette-rose-100",
-          "value": "#ffe4e6"
-        },
-        "200": {
-          "type": "color",
-          "description": "HSL: 255 / 96.08% / 90%",
-          "varname": "palette-rose-200",
-          "value": "#fecdd3"
-        },
-        "300": {
-          "type": "color",
-          "description": "HSL: 255 / 95.7% / 81.76%",
-          "varname": "palette-rose-300",
-          "value": "#fda4af"
-        },
-        "400": {
-          "type": "color",
-          "description": "HSL: 255 / 94.52% / 71.37%",
-          "varname": "palette-rose-400",
-          "value": "#fb7185"
-        },
-        "500": {
-          "type": "color",
-          "description": "HSL: 255 / 89.16% / 60.2%",
-          "varname": "palette-rose-500",
-          "value": "#f43f5e"
-        },
-        "600": {
-          "type": "color",
-          "description": "HSL: 255 / 76.56% / 49.8%",
-          "varname": "palette-rose-600",
-          "value": "#e11d48"
-        },
-        "700": {
-          "type": "color",
-          "description": "HSL: 255 / 56.95% / 40.78%",
-          "varname": "palette-rose-700",
-          "value": "#be123c"
-        },
-        "800": {
-          "type": "color",
-          "description": "HSL: 255 / 42.34% / 34.71%",
-          "varname": "palette-rose-800",
-          "value": "#9f1239"
-        },
-        "900": {
-          "type": "color",
-          "description": "HSL: 255 / 32.96% / 30.39%",
-          "varname": "palette-rose-900",
-          "value": "#881337"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 255 / 32.96% / 30.39%",
-          "varname": "palette-rose-1000",
-          "value": "#881337"
+      "label": {
+        "description": "Лейблы полей ввода и других элементов форм",
+        "type": "text",
+        "varname": "text-label",
+        "value": {
+          "fontSize": 16,
+          "lineHeight": 24,
+          "weight": 400
         }
+      },
+      "Кнопка": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-0",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography",
+        "description": "Лейблы кнопок"
+      },
+      "Леблы": {
+        "value": {
+          "fontFamily": "$fontFamilies.sb-sans-display",
+          "fontWeight": "$fontWeights.sb-sans-display-1",
+          "lineHeight": "$lineHeights.5",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography",
+        "description": "Лейблы полей ввода и других элементов форм"
       }
     },
     "Цвета задников (затемнений)": {
       "DEFAULT": {
         "description": "Пока используется одно затемнение для всех случаев",
         "type": "color",
-        "value": "#64748b",
+        "value": "#00000080",
         "varname": "overlay"
+      }
+    },
+    "Размеры экранов": {
+      "xs": {
+        "description": "Мобильное устройство телефон",
+        "type": "screen",
+        "value": "420px",
+        "varname": "screens-xs"
+      },
+      "sm": {
+        "description": "Увеличенный размер мобильного устройства",
+        "type": "screen",
+        "value": "576px",
+        "varname": "screens-sm"
+      },
+      "md": {
+        "description": "Планшет или равнозначный размер экрана",
+        "type": "screen",
+        "value": "768px",
+        "varname": "screens-md"
+      },
+      "lg": {
+        "description": "Маленький размер экрана или половина экрана",
+        "type": "screen",
+        "value": "992px",
+        "varname": "screens-lg"
+      },
+      "xl": {
+        "description": "Экран ноутбука или уменьшенный размер экрана",
+        "type": "screen",
+        "value": "1200px",
+        "varname": "screens-xl"
+      },
+      "2xl": {
+        "description": "Уменьшенный экран",
+        "type": "screen",
+        "value": "1600px",
+        "varname": "screens-2xl"
+      },
+      "3xl": {
+        "description": "Сверх большие экраны и телевизоры",
+        "type": "screen",
+        "value": "1900px",
+        "varname": "screens-3xl"
+      }
+    },
+    "Уровни приподнятости и акцентуации": {
+      "0": {
+        "description": "Отсутствие тени под нулевым уровнем",
+        "type": "boxShadow",
+        "value": "unset",
+        "varname": "shadow-level-0"
+      },
+      "1": {
+        "description": "Для карточек, и всех приподнятых элементов",
+        "type": "boxShadow",
+        "value": "0px 1px 1px rgba(202, 202, 202, 0.3), 0px 2px 6px rgba(202, 202, 202, 0.1)",
+        "varname": "shadow-level-1"
+      },
+      "2": {
+        "description": "Карточки при наведении",
+        "type": "boxShadow",
+        "value": "0px 2px 4px rgba(102, 131, 153, 0.1), 0px 8px 16px rgba(175, 190, 202, 0.2)",
+        "varname": "shadow-level-2"
+      },
+      "3": {
+        "description": "Раскрывающиеся элементы, подсказки, и мини-окна",
+        "type": "boxShadow",
+        "value": "0px 4px 8px rgba(102, 136, 153, 0.12), 0px 16px 32px rgba(102, 136, 153, 0.2)",
+        "varname": "shadow-level-3"
+      },
+      "4": {
+        "description": "Модальности и окна",
+        "type": "boxShadow",
+        "value": "0px 6px 16px rgba(102, 136, 153, 0.12), 0px 25px 60px rgba(102, 136, 153, 0.2)",
+        "varname": "shadow-level-4"
       }
     },
     "Базовые тени взяты из TW": {
       "DEFAULT": {
         "description": "Используется по умолчанию для токена shadow",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 1,
-            "spread": 0,
-            "blur": 3,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          },
-          {
-            "x": 0,
-            "y": 1,
-            "spread": -1,
-            "blur": 2,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          }
-        ],
+        "value": "0 1px 3px 0 rgba(102, 131, 153, 0.1), 0 1px 2px -1px rgba(102, 131, 153, 0.1)",
         "varname": "shadow-base"
       },
       "md": {
         "description": "Средний размер",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 4,
-            "spread": -1,
-            "blur": 6,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          },
-          {
-            "x": 0,
-            "y": 2,
-            "spread": -2,
-            "blur": 4,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          }
-        ],
+        "value": "0 4px 6px -1px rgba(102, 131, 153, 0.1), 0 2px 4px -2px rgba(102, 131, 153, 0.1)",
         "varname": "shadow-base-md"
       },
       "lg": {
         "description": "Большой размер",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 10,
-            "spread": -3,
-            "blur": 15,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          },
-          {
-            "x": 0,
-            "y": 4,
-            "spread": -4,
-            "blur": 6,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          }
-        ],
+        "value": "0 10px 15px -3px rgba(102, 131, 153, 0.1), 0 4px 6px -4px rgba(102, 131, 153, 0.1)",
         "varname": "shadow-base-lg"
       },
       "xl": {
         "description": "Очень большой размер",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 20,
-            "spread": -5,
-            "blur": 25,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          },
-          {
-            "x": 0,
-            "y": 8,
-            "spread": -6,
-            "blur": 10,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          }
-        ],
+        "value": "0 20px 25px -5px rgba(102, 131, 153, 0.1), 0 8px 10px -6px rgba(102, 131, 153, 0.1)",
         "varname": "shadow-base-xl"
       },
       "2xl": {
         "description": "Очень большой размер",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 25,
-            "spread": -12,
-            "blur": 50,
-            "type": "dropShadow",
-            "color": "#00000040"
-          }
-        ],
+        "value": "0 25px 50px -12px rgba(102, 131, 153, 0.25)",
         "varname": "shadow-base-2xl"
       },
       "inner": {
         "description": "Внутренняя вдавленная тень",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 2,
-            "spread": 0,
-            "blur": 4,
-            "type": "innerShadow",
-            "color": "#0000000d"
-          }
-        ],
+        "value": "inset 0 2px 4px 0 rgba(102, 131, 153, 0.1)",
         "varname": "shadow-base-inner"
-      }
-    },
-    "Уровни приподнятости и акцентации": {
-      "1": {
-        "description": "Для карточек, и всех приподнятых элементов",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 1,
-            "spread": 0,
-            "blur": 1,
-            "type": "dropShadow",
-            "color": "#cacaca4d"
-          },
-          {
-            "x": 0,
-            "y": 2,
-            "spread": 0,
-            "blur": 6,
-            "type": "dropShadow",
-            "color": "#cacaca1a"
-          }
-        ],
-        "varname": "shadow-level-1"
       },
-      "2": {
-        "description": "Карточки при наведении",
+      "none": {
+        "description": "Без тени",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 2,
-            "spread": 0,
-            "blur": 4,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          },
-          {
-            "x": 0,
-            "y": 8,
-            "spread": 0,
-            "blur": 16,
-            "type": "dropShadow",
-            "color": "#afbeca33"
-          }
-        ],
-        "varname": "shadow-level-2"
-      },
-      "3": {
-        "description": "Раскрывающиеся элементы, подсказки, и мини-окна",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 4,
-            "spread": 0,
-            "blur": 8,
-            "type": "dropShadow",
-            "color": "#6688991f"
-          },
-          {
-            "x": 0,
-            "y": 16,
-            "spread": 0,
-            "blur": 32,
-            "type": "dropShadow",
-            "color": "#66889933"
-          }
-        ],
-        "varname": "shadow-level-3"
-      },
-      "4": {
-        "description": "Модальности и окна",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 6,
-            "spread": 0,
-            "blur": 16,
-            "type": "dropShadow",
-            "color": "#6688991f"
-          },
-          {
-            "x": 0,
-            "y": 25,
-            "spread": 0,
-            "blur": 60,
-            "type": "dropShadow",
-            "color": "#66889933"
-          }
-        ],
-        "varname": "shadow-level-4"
+        "value": "unset",
+        "varname": "shadow-base-none"
       }
     },
     "Панель": {
       "left": {
-        "description": "ИСпользуется в компоненте Drawer фреймворка Ант",
+        "description": "Используется в компоненте Drawer фреймворка Ант",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 8,
-            "y": 0,
-            "spread": 0,
-            "blur": 24,
-            "type": "dropShadow",
-            "color": "#a9bfd04d"
-          }
-        ],
+        "value": "8px 0px 24px rgba(169, 191, 208, 0.3)",
         "varname": "shadow-panel-left"
       },
       "right": {
-        "description": "ИСпользуется в компоненте Drawer фреймворка Ант",
+        "description": "Используется в компоненте Drawer фреймворка Ант",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": -8,
-            "y": 0,
-            "spread": 0,
-            "blur": 24,
-            "type": "dropShadow",
-            "color": "#a9bfd04d"
-          }
-        ],
+        "value": "-8px 0px 24px rgba(169, 191, 208, 0.3)",
         "varname": "shadow-panel-right"
       },
       "top": {
-        "description": "ИСпользуется в компоненте Drawer фреймворка Ант",
+        "description": "Используется в компоненте Drawer фреймворка Ант",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 8,
-            "spread": 0,
-            "blur": 24,
-            "type": "dropShadow",
-            "color": "#a9bfd04d"
-          }
-        ],
+        "value": "0px 8px 24px rgba(169, 191, 208, 0.3)",
         "varname": "shadow-panel-top"
       },
       "bottom": {
-        "description": "ИСпользуется в компоненте Drawer фреймворка Ант",
+        "description": "Используется в компоненте Drawer фреймворка Ант",
         "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": -8,
-            "spread": 0,
-            "blur": 24,
-            "type": "dropShadow",
-            "color": "#a9bfd04d"
-          }
-        ],
+        "value": "0px -8px 24px rgba(169, 191, 208, 0.3)",
         "varname": "shadow-panel-bottom"
-      }
-    },
-    "Дополнительные тени": {
-      "smart": {
-        "description": "Добавлена для стилизации Мини-карточек",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 6,
-            "spread": 0,
-            "blur": 12,
-            "type": "dropShadow",
-            "color": "#0000000d"
-          },
-          {
-            "x": 0,
-            "y": 2,
-            "spread": 0,
-            "blur": 2,
-            "type": "dropShadow",
-            "color": "#0000001a"
-          },
-          {
-            "x": 0,
-            "y": 10,
-            "spread": 0,
-            "blur": 60,
-            "type": "dropShadow",
-            "color": "#0000000f"
-          }
-        ],
-        "varname": "shadow-extra-smart"
       }
     },
     "fontFamilies": {
@@ -2037,6 +2488,14 @@
       "7": {
         "value": "28",
         "type": "lineHeights"
+      },
+      "8": {
+        "value": "18",
+        "type": "lineHeights"
+      },
+      "9": {
+        "value": "16",
+        "type": "lineHeights"
       }
     },
     "fontWeights": {
@@ -2055,34 +2514,42 @@
     },
     "fontSize": {
       "0": {
-        "value": "16",
+        "value": "12",
         "type": "fontSizes"
       },
       "1": {
-        "value": "18",
+        "value": "14",
         "type": "fontSizes"
       },
       "2": {
-        "value": "20",
+        "value": "16",
         "type": "fontSizes"
       },
       "3": {
-        "value": "24",
+        "value": "18",
         "type": "fontSizes"
       },
       "4": {
-        "value": "28",
+        "value": "20",
         "type": "fontSizes"
       },
       "5": {
-        "value": "32",
+        "value": "24",
         "type": "fontSizes"
       },
       "6": {
-        "value": "38",
+        "value": "28",
         "type": "fontSizes"
       },
       "7": {
+        "value": "32",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "38",
+        "type": "fontSizes"
+      },
+      "9": {
         "value": "44",
         "type": "fontSizes"
       }
@@ -2097,242 +2564,6 @@
       "0": {
         "value": "0",
         "type": "paragraphSpacing"
-      }
-    },
-    "Ant Design": {
-      "H1": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.7",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "H2": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.1",
-          "fontSize": "$fontSize.6",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "H3": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.2",
-          "fontSize": "$fontSize.5",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "H4": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.3",
-          "fontSize": "$fontSize.4",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "H5": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.4",
-          "fontSize": "$fontSize.3",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "Базовый текст": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-1",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Обычный текст для всех случаев"
-      },
-      "Выделенный текст": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Полужирное начертание для акцента"
-      },
-      "Код": {
-        "value": {
-          "fontFamily": "$fontFamilies.courier-new",
-          "fontWeight": "$fontWeights.courier-new-2",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Для блоков <CODE> и подобных"
-      }
-    },
-    "Функциональный текст": {
-      "Название страницы": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.6",
-          "fontSize": "$fontSize.5",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography"
-      },
-      "Раздел": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.4",
-          "fontSize": "$fontSize.4",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Если на странице более одного раздела"
-      },
-      "Подраздел": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.4",
-          "fontSize": "$fontSize.3",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Крупный раздел на странице"
-      },
-      "Блок": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.7",
-          "fontSize": "$fontSize.2",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Заголовок блока формы или виджета"
-      },
-      "Группа контролов": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-1",
-          "lineHeight": "$lineHeights.7",
-          "fontSize": "$fontSize.1",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Для использования совместно с группой контролов например с радио-группой"
-      },
-      "Обычный текст": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-1",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Самый базовый текст. Совпадает с Ant.Design "
-      },
-      "Выделенный текст": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Акцентирование"
-      },
-      "Леблы": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-1",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Лейблы полей ввода и других элементов форм"
-      },
-      "Кнопка": {
-        "value": {
-          "fontFamily": "$fontFamilies.sb-sans-display",
-          "fontWeight": "$fontWeights.sb-sans-display-0",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.0",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
-        },
-        "type": "typography",
-        "description": "Лейблы кнопок"
       }
     },
     "textCase": {
@@ -2353,9 +2584,9 @@
       "SLATE": {
         "50": {
           "type": "color",
-          "description": "HSL: 222 / 47.37% / 11.18%",
+          "description": "HSL: 221 / 60.98% / 8.04%",
           "varname": "palette-slate-50",
-          "value": "#0f172a"
+          "value": "#081021"
         },
         "75": {
           "type": "color",
@@ -2413,9 +2644,9 @@
         },
         "900": {
           "type": "color",
-          "description": "HSL: 210 / 40% / 98.04%",
+          "description": "HSL: 210 / 37.5% / 96.86%",
           "varname": "palette-slate-900",
-          "value": "#f8fafc"
+          "value": "#f4f7fa"
         },
         "1000": {
           "type": "color",
@@ -3754,6 +3985,34 @@
           "description": "HSL: 255 / 100% / 97.25%",
           "varname": "palette-rose-1000",
           "value": "#fff1f2"
+        }
+      },
+      "WHITE": {
+        "DEFAULT": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 0%",
+          "varname": "palette-white",
+          "value": "#000000"
+        },
+        "half": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 0%",
+          "varname": "palette-white-half",
+          "value": "#00000080"
+        }
+      },
+      "BLACK": {
+        "DEFAULT": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 100%",
+          "varname": "palette-black",
+          "value": "#ffffff"
+        },
+        "half": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 100%",
+          "varname": "palette-black-half",
+          "value": "#ffffff80"
         }
       }
     }

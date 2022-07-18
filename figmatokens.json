@@ -3204,130 +3204,6 @@
         "varname": "shadow-level-4"
       }
     },
-    "Базовые тени TailwindCSS": {
-      "DEFAULT": {
-        "description": "Используется по умолчанию",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 1,
-            "spread": 0,
-            "blur": 3,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          },
-          {
-            "x": 0,
-            "y": 1,
-            "spread": -1,
-            "blur": 2,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          }
-        ],
-        "varname": "shadow-base"
-      },
-      "md": {
-        "description": "Средний размер",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 4,
-            "spread": -1,
-            "blur": 6,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          },
-          {
-            "x": 0,
-            "y": 2,
-            "spread": -2,
-            "blur": 4,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          }
-        ],
-        "varname": "shadow-base-md"
-      },
-      "lg": {
-        "description": "Большой размер",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 10,
-            "spread": -3,
-            "blur": 15,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          },
-          {
-            "x": 0,
-            "y": 4,
-            "spread": -4,
-            "blur": 6,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          }
-        ],
-        "varname": "shadow-base-lg"
-      },
-      "xl": {
-        "description": "Очень большой размер",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 20,
-            "spread": -5,
-            "blur": 25,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          },
-          {
-            "x": 0,
-            "y": 8,
-            "spread": -6,
-            "blur": 10,
-            "type": "dropShadow",
-            "color": "#6683991a"
-          }
-        ],
-        "varname": "shadow-base-xl"
-      },
-      "2xl": {
-        "description": "Очень большой размер",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 25,
-            "spread": -12,
-            "blur": 50,
-            "type": "dropShadow",
-            "color": "#66839940"
-          }
-        ],
-        "varname": "shadow-base-2xl"
-      },
-      "inner": {
-        "description": "Внутренняя вдавленная тень",
-        "type": "boxShadow",
-        "value": [
-          {
-            "x": 0,
-            "y": 2,
-            "spread": 0,
-            "blur": 4,
-            "type": "innerShadow",
-            "color": "#6683991a"
-          }
-        ],
-        "varname": "shadow-base-inner"
-      }
-    },
     "Панель": {
       "left": {
         "description": "Используется в компоненте Drawer фреймворка Ант, или подобных",
@@ -7761,6 +7637,130 @@
           "value": "#ffffff80"
         }
       }
+    }
+  },
+  "Тени TW": {
+    "DEFAULT": {
+      "description": "Используется по умолчанию",
+      "type": "boxShadow",
+      "value": [
+        {
+          "x": 0,
+          "y": 1,
+          "spread": 0,
+          "blur": 3,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        },
+        {
+          "x": 0,
+          "y": 1,
+          "spread": -1,
+          "blur": 2,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        }
+      ],
+      "varname": "shadow-base"
+    },
+    "md": {
+      "description": "Средний размер",
+      "type": "boxShadow",
+      "value": [
+        {
+          "x": 0,
+          "y": 4,
+          "spread": -1,
+          "blur": 6,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "spread": -2,
+          "blur": 4,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        }
+      ],
+      "varname": "shadow-base-md"
+    },
+    "lg": {
+      "description": "Большой размер",
+      "type": "boxShadow",
+      "value": [
+        {
+          "x": 0,
+          "y": 10,
+          "spread": -3,
+          "blur": 15,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "spread": -4,
+          "blur": 6,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        }
+      ],
+      "varname": "shadow-base-lg"
+    },
+    "xl": {
+      "description": "Очень большой размер",
+      "type": "boxShadow",
+      "value": [
+        {
+          "x": 0,
+          "y": 20,
+          "spread": -5,
+          "blur": 25,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "spread": -6,
+          "blur": 10,
+          "type": "dropShadow",
+          "color": "#6683991a"
+        }
+      ],
+      "varname": "shadow-base-xl"
+    },
+    "2xl": {
+      "description": "Очень большой размер",
+      "type": "boxShadow",
+      "value": [
+        {
+          "x": 0,
+          "y": 25,
+          "spread": -12,
+          "blur": 50,
+          "type": "dropShadow",
+          "color": "#66839940"
+        }
+      ],
+      "varname": "shadow-base-2xl"
+    },
+    "inner": {
+      "description": "Внутренняя вдавленная тень",
+      "type": "boxShadow",
+      "value": [
+        {
+          "x": 0,
+          "y": 2,
+          "spread": 0,
+          "blur": 4,
+          "type": "innerShadow",
+          "color": "#6683991a"
+        }
+      ],
+      "varname": "shadow-base-inner"
     }
   }
 }

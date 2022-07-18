@@ -6873,12 +6873,6 @@
           "description": "HSL: 88 / 61.17% / 20.2%",
           "varname": "palette-lime-900",
           "value": "#365314"
-        },
-        "1000": {
-          "type": "color",
-          "description": "HSL: 88 / 53.85% / 17.84%",
-          "varname": "palette-lime-1000",
-          "value": "#2f4615"
         }
       },
       "GREEN": {

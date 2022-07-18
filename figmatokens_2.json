@@ -3460,6 +3460,12 @@
           "varname": "palette-slate-500",
           "value": "#64748b"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 215 / 16.74% / 54.31%",
+          "varname": "palette-slate-550",
+          "value": "#77879e"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 215 / 20.22% / 65.1%",
@@ -3468,9 +3474,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 215 / 16.74% / 54.31%",
+          "description": "HSL: 214 / 22.39% / 73.73%",
           "varname": "palette-slate-650",
-          "value": "#77879e"
+          "value": "#adbacb"
         },
         "700": {
           "type": "color",
@@ -3480,9 +3486,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 214 / 22.39% / 73.73%",
+          "description": "HSL: 213 / 29.03% / 87.84%",
           "varname": "palette-slate-750",
-          "value": "#adbacb"
+          "value": "#d7dfe9"
         },
         "800": {
           "type": "color",
@@ -3582,6 +3588,12 @@
           "varname": "palette-neutral-500",
           "value": "#737373"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 53.73%",
+          "varname": "palette-neutral-550",
+          "value": "#898989"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 0 / 0% / 63.92%",
@@ -3590,9 +3602,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 0 / 0% / 53.73%",
+          "description": "HSL: 0 / 0% / 73.33%",
           "varname": "palette-neutral-650",
-          "value": "#898989"
+          "value": "#bbbbbb"
         },
         "700": {
           "type": "color",
@@ -3602,9 +3614,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 0 / 0% / 73.33%",
+          "description": "HSL: 0 / 0% / 86.67%",
           "varname": "palette-neutral-750",
-          "value": "#bbbbbb"
+          "value": "#dddddd"
         },
         "800": {
           "type": "color",
@@ -3704,6 +3716,12 @@
           "varname": "palette-red-500",
           "value": "#ef4444"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 0 / 87.71% / 64.9%",
+          "varname": "palette-red-550",
+          "value": "#f45757"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 0 / 90.6% / 70.78%",
@@ -3712,9 +3730,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 0 / 87.71% / 64.9%",
+          "description": "HSL: 0 / 91.94% / 75.69%",
           "varname": "palette-red-650",
-          "value": "#f45757"
+          "value": "#fa8888"
         },
         "700": {
           "type": "color",
@@ -3724,9 +3742,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 0 / 91.94% / 75.69%",
+          "description": "HSL: 0 / 94.52% / 85.69%",
           "varname": "palette-red-750",
-          "value": "#fa8888"
+          "value": "#fdb8b8"
         },
         "800": {
           "type": "color",
@@ -3826,6 +3844,12 @@
           "varname": "palette-orange-500",
           "value": "#f97316"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 25 / 96.38% / 56.67%",
+          "varname": "palette-orange-550",
+          "value": "#fb7d26"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 27 / 95.98% / 60.98%",
@@ -3834,9 +3858,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 25 / 96.38% / 56.67%",
+          "description": "HSL: 29 / 96.55% / 65.88%",
           "varname": "palette-orange-650",
-          "value": "#fb7d26"
+          "value": "#fca454"
         },
         "700": {
           "type": "color",
@@ -3846,9 +3870,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 29 / 96.55% / 65.88%",
+          "description": "HSL: 32 / 98.35% / 76.27%",
           "varname": "palette-orange-750",
-          "value": "#fca454"
+          "value": "#fec687"
         },
         "800": {
           "type": "color",
@@ -3948,6 +3972,12 @@
           "varname": "palette-amber-500",
           "value": "#f59e0b"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 40 / 92.59% / 52.35%",
+          "varname": "palette-amber-550",
+          "value": "#f6ab15"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 43 / 96.41% / 56.27%",
@@ -3956,9 +3986,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 40 / 92.59% / 52.35%",
+          "description": "HSL: 45 / 97.03% / 60.39%",
           "varname": "palette-amber-650",
-          "value": "#f6ab15"
+          "value": "#fccb38"
         },
         "700": {
           "type": "color",
@@ -3968,9 +3998,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 45 / 97.03% / 60.39%",
+          "description": "HSL: 48 / 97.37% / 70.2%",
           "varname": "palette-amber-750",
-          "value": "#fccb38"
+          "value": "#fddf69"
         },
         "800": {
           "type": "color",
@@ -4070,6 +4100,12 @@
           "varname": "palette-yellow-500",
           "value": "#eab308"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 47 / 90.59% / 50%",
+          "varname": "palette-yellow-550",
+          "value": "#f3c20c"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 48 / 95.82% / 53.14%",
@@ -4078,9 +4114,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 47 / 90.59% / 50%",
+          "description": "HSL: 49 / 97.24% / 57.45%",
           "varname": "palette-yellow-650",
-          "value": "#f3c20c"
+          "value": "#fcd729"
         },
         "700": {
           "type": "color",
@@ -4090,9 +4126,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 49 / 97.24% / 57.45%",
+          "description": "HSL: 51 / 98.72% / 69.41%",
           "varname": "palette-yellow-750",
-          "value": "#fcd729"
+          "value": "#fee864"
         },
         "800": {
           "type": "color",
@@ -4192,6 +4228,12 @@
           "varname": "palette-lime-500",
           "value": "#84cc16"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 84 / 70.54% / 49.41%",
+          "varname": "palette-lime-550",
+          "value": "#91d923"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 83 / 77.97% / 55.49%",
@@ -4200,9 +4242,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 84 / 70.54% / 49.41%",
+          "description": "HSL: 83 / 80.81% / 61.18%",
           "varname": "palette-lime-650",
-          "value": "#91d923"
+          "value": "#b0ec4c"
         },
         "700": {
           "type": "color",
@@ -4212,9 +4254,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 83 / 80.81% / 61.18%",
+          "description": "HSL: 82 / 85.61% / 72.75%",
           "varname": "palette-lime-750",
-          "value": "#b0ec4c"
+          "value": "#caf57e"
         },
         "800": {
           "type": "color",
@@ -4314,6 +4356,12 @@
           "varname": "palette-green-500",
           "value": "#22c55e"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 142 / 63.71% / 51.37%",
+          "varname": "palette-green-550",
+          "value": "#34d26e"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 142 / 69.16% / 58.04%",
@@ -4322,9 +4370,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 142 / 63.71% / 51.37%",
+          "description": "HSL: 142 / 72.88% / 65.29%",
           "varname": "palette-green-650",
-          "value": "#34d26e"
+          "value": "#66e795"
         },
         "700": {
           "type": "color",
@@ -4334,9 +4382,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 142 / 72.88% / 65.29%",
+          "description": "HSL: 142 / 77.57% / 79.02%",
           "varname": "palette-green-750",
-          "value": "#66e795"
+          "value": "#a0f3be"
         },
         "800": {
           "type": "color",
@@ -4436,6 +4484,12 @@
           "varname": "palette-emerald-500",
           "value": "#10b981"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 159 / 59.71% / 45.49%",
+          "varname": "palette-emerald-550",
+          "value": "#21c78d"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 158 / 64.37% / 51.57%",
@@ -4444,9 +4498,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 159 / 59.71% / 45.49%",
+          "description": "HSL: 158 / 66.98% / 58.43%",
           "varname": "palette-emerald-650",
-          "value": "#21c78d"
+          "value": "#4edca7"
         },
         "700": {
           "type": "color",
@@ -4456,9 +4510,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 158 / 66.98% / 58.43%",
+          "description": "HSL: 155 / 74.63% / 73.73%",
           "varname": "palette-emerald-750",
-          "value": "#4edca7"
+          "value": "#8aeec4"
         },
         "800": {
           "type": "color",
@@ -4558,6 +4612,12 @@
           "varname": "palette-teal-500",
           "value": "#14b8a6"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 173 / 63.11% / 52.16%",
+          "varname": "palette-teal-550",
+          "value": "#38d2bf"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 172 / 66.01% / 50.39%",
@@ -4566,9 +4626,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 173 / 63.11% / 52.16%",
+          "description": "HSL: 172 / 75.53% / 63.14%",
           "varname": "palette-teal-650",
-          "value": "#38d2bf"
+          "value": "#5ae8d4"
         },
         "700": {
           "type": "color",
@@ -4578,9 +4638,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 172 / 75.53% / 63.14%",
+          "description": "HSL: 170 / 79.45% / 71.37%",
           "varname": "palette-teal-750",
-          "value": "#5ae8d4"
+          "value": "#7cf0dd"
         },
         "800": {
           "type": "color",
@@ -4680,6 +4740,12 @@
           "varname": "palette-cyan-500",
           "value": "#06b6d4"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 188 / 78.28% / 47.65%",
+          "varname": "palette-cyan-550",
+          "value": "#11c5e2"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 188 / 85.71% / 53.33%",
@@ -4688,9 +4754,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 188 / 78.28% / 47.65%",
+          "description": "HSL: 187 / 90% / 60.78%",
           "varname": "palette-cyan-650",
-          "value": "#11c5e2"
+          "value": "#41e0f5"
         },
         "700": {
           "type": "color",
@@ -4700,9 +4766,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 187 / 90% / 60.78%",
+          "description": "HSL: 187 / 90.62% / 74.9%",
           "varname": "palette-cyan-750",
-          "value": "#41e0f5"
+          "value": "#85ebf9"
         },
         "800": {
           "type": "color",
@@ -4802,6 +4868,12 @@
           "varname": "palette-sky-500",
           "value": "#0ea5e9"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 198 / 87.39% / 53.33%",
+          "varname": "palette-sky-550",
+          "value": "#20b0f0"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 198 / 93.2% / 59.61%",
@@ -4810,9 +4882,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 198 / 87.39% / 53.33%",
+          "description": "HSL: 199 / 94.29% / 65.69%",
           "varname": "palette-sky-650",
-          "value": "#20b0f0"
+          "value": "#55c6fa"
         },
         "700": {
           "type": "color",
@@ -4822,9 +4894,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 199 / 94.29% / 65.69%",
+          "description": "HSL: 200 / 96.04% / 80.2%",
           "varname": "palette-sky-750",
-          "value": "#55c6fa"
+          "value": "#9cddfd"
         },
         "800": {
           "type": "color",
@@ -4924,6 +4996,12 @@
           "varname": "palette-blue-500",
           "value": "#3b82f6"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 215 / 92.39% / 63.92%",
+          "varname": "palette-blue-550",
+          "value": "#4e94f8"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 213 / 93.9% / 67.84%",
@@ -4932,9 +5010,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 215 / 92.39% / 63.92%",
+          "description": "HSL: 213 / 93.89% / 74.31%",
           "varname": "palette-blue-650",
-          "value": "#4e94f8"
+          "value": "#80b7fb"
         },
         "700": {
           "type": "color",
@@ -4944,9 +5022,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 213 / 93.89% / 74.31%",
+          "description": "HSL: 213 / 95.4% / 82.94%",
           "varname": "palette-blue-750",
-          "value": "#80b7fb"
+          "value": "#aacffd"
         },
         "800": {
           "type": "color",
@@ -5046,6 +5124,12 @@
           "varname": "palette-indigo-500",
           "value": "#6366f1"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 237 / 85.71% / 69.8%",
+          "varname": "palette-indigo-550",
+          "value": "#7076f4"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 234 / 89.47% / 73.92%",
@@ -5054,9 +5138,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 237 / 85.71% / 69.8%",
+          "description": "HSL: 233 / 91.3% / 77.45%",
           "varname": "palette-indigo-650",
-          "value": "#7076f4"
+          "value": "#919efa"
         },
         "700": {
           "type": "color",
@@ -5066,9 +5150,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 233 / 91.3% / 77.45%",
+          "description": "HSL: 228 / 94.67% / 85.29%",
           "varname": "palette-indigo-750",
-          "value": "#919efa"
+          "value": "#b6c4fd"
         },
         "800": {
           "type": "color",
@@ -5168,6 +5252,12 @@
           "varname": "palette-violet-500",
           "value": "#8b5cf6"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 255 / 90.28% / 71.76%",
+          "varname": "palette-violet-550",
+          "value": "#9a76f8"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 255 / 91.74% / 76.27%",
@@ -5176,9 +5266,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 255 / 90.28% / 71.76%",
+          "description": "HSL: 254 / 92.08% / 80.2%",
           "varname": "palette-violet-650",
-          "value": "#9a76f8"
+          "value": "#b39efb"
         },
         "700": {
           "type": "color",
@@ -5188,9 +5278,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 254 / 92.08% / 80.2%",
+          "description": "HSL: 252 / 93.33% / 88.24%",
           "varname": "palette-violet-750",
-          "value": "#b39efb"
+          "value": "#d0c5fd"
         },
         "800": {
           "type": "color",
@@ -5290,6 +5380,12 @@
           "varname": "palette-purpule-500",
           "value": "#a855f7"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 255 / 93.38% / 70.39%",
+          "varname": "palette-purpule-550",
+          "value": "#b56dfa"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 255 / 95.24% / 75.29%",
@@ -5298,9 +5394,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 255 / 93.38% / 70.39%",
+          "description": "HSL: 255 / 98.04% / 80%",
           "varname": "palette-purpule-650",
-          "value": "#b56dfa"
+          "value": "#cc9afe"
         },
         "700": {
           "type": "color",
@@ -5310,9 +5406,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 255 / 98.04% / 80%",
+          "description": "HSL: 255 / 96.67% / 88.24%",
           "varname": "palette-purpule-750",
-          "value": "#cc9afe"
+          "value": "#e0c4fe"
         },
         "800": {
           "type": "color",
@@ -5412,6 +5508,12 @@
           "varname": "palette-fuchsia-500",
           "value": "#d946ef"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 255 / 88.37% / 66.27%",
+          "varname": "palette-fuchsia-550",
+          "value": "#e15df5"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 255 / 91.43% / 72.55%",
@@ -5420,9 +5522,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 255 / 88.37% / 66.27%",
+          "description": "HSL: 255 / 92.92% / 77.84%",
           "varname": "palette-fuchsia-650",
-          "value": "#e15df5"
+          "value": "#ed92fb"
         },
         "700": {
           "type": "color",
@@ -5432,9 +5534,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 255 / 92.92% / 77.84%",
+          "description": "HSL: 255 / 94.03% / 86.86%",
           "varname": "palette-fuchsia-750",
-          "value": "#ed92fb"
+          "value": "#f3befd"
         },
         "800": {
           "type": "color",
@@ -5534,6 +5636,12 @@
           "varname": "palette-pink-500",
           "value": "#ec4899"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 255 / 82.22% / 64.71%",
+          "varname": "palette-pink-550",
+          "value": "#ef5ba6"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 255 / 85.53% / 70.2%",
@@ -5542,9 +5650,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 255 / 82.22% / 64.71%",
+          "description": "HSL: 255 / 85.71% / 75.29%",
           "varname": "palette-pink-650",
-          "value": "#ef5ba6"
+          "value": "#f68ac4"
         },
         "700": {
           "type": "color",
@@ -5554,9 +5662,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 255 / 85.71% / 75.29%",
+          "description": "HSL: 255 / 86.11% / 85.88%",
           "varname": "palette-pink-750",
-          "value": "#f68ac4"
+          "value": "#fabcde"
         },
         "800": {
           "type": "color",
@@ -5656,6 +5764,12 @@
           "varname": "palette-rose-500",
           "value": "#f43f5e"
         },
+        "550": {
+          "type": "color",
+          "description": "HSL: 255 / 90.96% / 65.29%",
+          "varname": "palette-rose-550",
+          "value": "#f7566f"
+        },
         "600": {
           "type": "color",
           "description": "HSL: 255 / 94.52% / 71.37%",
@@ -5664,9 +5778,9 @@
         },
         "650": {
           "type": "color",
-          "description": "HSL: 255 / 90.96% / 65.29%",
+          "description": "HSL: 255 / 95% / 76.47%",
           "varname": "palette-rose-650",
-          "value": "#f7566f"
+          "value": "#fc8a9b"
         },
         "700": {
           "type": "color",
@@ -5676,9 +5790,9 @@
         },
         "750": {
           "type": "color",
-          "description": "HSL: 255 / 95% / 76.47%",
+          "description": "HSL: 255 / 97.18% / 86.08%",
           "varname": "palette-rose-750",
-          "value": "#fc8a9b"
+          "value": "#feb9c2"
         },
         "800": {
           "type": "color",

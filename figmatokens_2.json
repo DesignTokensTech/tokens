@@ -5741,7 +5741,7 @@
       }
     }
   },
-  "Texts": {
+  "Стили текста": {
     "fontFamilies": {
       "sb-sans-display": {
         "value": "SB Sans Display",
@@ -6142,7 +6142,7 @@
       }
     }
   },
-  "TW Texts": {
+  "Стили текста TW": {
     "fontFamilies": {
       "open-sans": {
         "value": "Open Sans",
@@ -6436,6 +6436,1222 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    }
+  },
+  "Палитра TW": {
+    "Палитра TW": {
+      "SLATE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 210 / 40% / 98.04%",
+          "varname": "palette-slate-50",
+          "value": "#f8fafc"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 210 / 40% / 96.08%",
+          "varname": "palette-slate-100",
+          "value": "#f1f5f9"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 214 / 31.82% / 91.37%",
+          "varname": "palette-slate-200",
+          "value": "#e2e8f0"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 213 / 26.83% / 83.92%",
+          "varname": "palette-slate-300",
+          "value": "#cbd5e1"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 215 / 20.22% / 65.1%",
+          "varname": "palette-slate-400",
+          "value": "#94a3b8"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 215 / 14.39% / 46.86%",
+          "varname": "palette-slate-500",
+          "value": "#64748b"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 215 / 19.32% / 34.51%",
+          "varname": "palette-slate-600",
+          "value": "#475569"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 215 / 25% / 26.67%",
+          "varname": "palette-slate-700",
+          "value": "#334155"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 217 / 32.58% / 17.45%",
+          "varname": "palette-slate-800",
+          "value": "#1e293b"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 222 / 47.37% / 11.18%",
+          "varname": "palette-slate-900",
+          "value": "#0f172a"
+        }
+      },
+      "NEUTRAL": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 98.04%",
+          "varname": "palette-neutral-50",
+          "value": "#fafafa"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 96.08%",
+          "varname": "palette-neutral-100",
+          "value": "#f5f5f5"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 89.8%",
+          "varname": "palette-neutral-200",
+          "value": "#e5e5e5"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 83.14%",
+          "varname": "palette-neutral-300",
+          "value": "#d4d4d4"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 63.92%",
+          "varname": "palette-neutral-400",
+          "value": "#a3a3a3"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 45.1%",
+          "varname": "palette-neutral-500",
+          "value": "#737373"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 32.16%",
+          "varname": "palette-neutral-600",
+          "value": "#525252"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 25.1%",
+          "varname": "palette-neutral-700",
+          "value": "#404040"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 14.9%",
+          "varname": "palette-neutral-800",
+          "value": "#262626"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 9.02%",
+          "varname": "palette-neutral-900",
+          "value": "#171717"
+        }
+      },
+      "RED": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 0 / 85.71% / 97.25%",
+          "varname": "palette-red-50",
+          "value": "#fef2f2"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 0 / 93.33% / 94.12%",
+          "varname": "palette-red-100",
+          "value": "#fee2e2"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 0 / 96.3% / 89.41%",
+          "varname": "palette-red-200",
+          "value": "#fecaca"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 0 / 93.55% / 81.76%",
+          "varname": "palette-red-300",
+          "value": "#fca5a5"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 0 / 90.6% / 70.78%",
+          "varname": "palette-red-400",
+          "value": "#f87171"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 0 / 84.24% / 60.2%",
+          "varname": "palette-red-500",
+          "value": "#ef4444"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 0 / 72.22% / 50.59%",
+          "varname": "palette-red-600",
+          "value": "#dc2626"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 0 / 52.86% / 41.76%",
+          "varname": "palette-red-700",
+          "value": "#b91c1c"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 0 / 38.18% / 35.29%",
+          "varname": "palette-red-800",
+          "value": "#991b1b"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 0 / 62.82% / 30.59%",
+          "varname": "palette-red-900",
+          "value": "#7f1d1d"
+        }
+      },
+      "ORANGE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 33 / 100% / 96.47%",
+          "varname": "palette-orange-50",
+          "value": "#fff7ed"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 34 / 100% / 91.76%",
+          "varname": "palette-orange-100",
+          "value": "#ffedd5"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 32 / 97.67% / 83.14%",
+          "varname": "palette-orange-200",
+          "value": "#fed7aa"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 31 / 97.16% / 72.35%",
+          "varname": "palette-orange-300",
+          "value": "#fdba74"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 27 / 95.98% / 60.98%",
+          "varname": "palette-orange-400",
+          "value": "#fb923c"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 25 / 94.98% / 53.14%",
+          "varname": "palette-orange-500",
+          "value": "#f97316"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 21 / 84.09% / 48.24%",
+          "varname": "palette-orange-600",
+          "value": "#ea580c"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 17 / 59.87% / 40.39%",
+          "varname": "palette-orange-700",
+          "value": "#c2410c"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 15 / 40.24% / 33.73%",
+          "varname": "palette-orange-800",
+          "value": "#9a3412"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 15 / 74.65% / 27.84%",
+          "varname": "palette-orange-900",
+          "value": "#7c2d12"
+        }
+      },
+      "AMBER": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 48 / 100% / 96.08%",
+          "varname": "palette-amber-50",
+          "value": "#fffbeb"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 48 / 96.49% / 88.82%",
+          "varname": "palette-amber-100",
+          "value": "#fef3c7"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 48 / 96.64% / 76.67%",
+          "varname": "palette-amber-200",
+          "value": "#fde68a"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 46 / 96.69% / 64.51%",
+          "varname": "palette-amber-300",
+          "value": "#fcd34d"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 43 / 96.41% / 56.27%",
+          "varname": "palette-amber-400",
+          "value": "#fbbf24"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 38 / 92.13% / 50.2%",
+          "varname": "palette-amber-500",
+          "value": "#f59e0b"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 32 / 73.52% / 43.73%",
+          "varname": "palette-amber-600",
+          "value": "#d97706"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 26 / 53.27% / 37.06%",
+          "varname": "palette-amber-700",
+          "value": "#b45309"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 23 / 37.71% / 31.37%",
+          "varname": "palette-amber-800",
+          "value": "#92400e"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 22 / 77.78% / 26.47%",
+          "varname": "palette-amber-900",
+          "value": "#78350f"
+        }
+      },
+      "YELLOW": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 55 / 91.67% / 95.29%",
+          "varname": "palette-yellow-50",
+          "value": "#fefce8"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 55 / 96.72% / 88.04%",
+          "varname": "palette-yellow-100",
+          "value": "#fef9c3"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 53 / 98.31% / 76.86%",
+          "varname": "palette-yellow-200",
+          "value": "#fef08a"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 50 / 97.85% / 63.53%",
+          "varname": "palette-yellow-300",
+          "value": "#fde047"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 48 / 95.82% / 53.14%",
+          "varname": "palette-yellow-400",
+          "value": "#facc15"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 45 / 84.33% / 47.45%",
+          "varname": "palette-yellow-500",
+          "value": "#eab308"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 41 / 65.13% / 40.39%",
+          "varname": "palette-yellow-600",
+          "value": "#ca8a04"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 35 / 45.03% / 32.94%",
+          "varname": "palette-yellow-700",
+          "value": "#a16207"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 32 / 32.78% / 28.82%",
+          "varname": "palette-yellow-800",
+          "value": "#854d0e"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 28 / 72.52% / 25.69%",
+          "varname": "palette-yellow-900",
+          "value": "#713f12"
+        }
+      },
+      "LIME": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 78 / 92% / 95.1%",
+          "varname": "palette-lime-50",
+          "value": "#f7fee7"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 80 / 89.09% / 89.22%",
+          "varname": "palette-lime-100",
+          "value": "#ecfccb"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 81 / 88.46% / 79.61%",
+          "varname": "palette-lime-200",
+          "value": "#d9f99d"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 82 / 84.52% / 67.06%",
+          "varname": "palette-lime-300",
+          "value": "#bef264"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 83 / 77.97% / 55.49%",
+          "varname": "palette-lime-400",
+          "value": "#a3e635"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 84 / 64.08% / 44.31%",
+          "varname": "palette-lime-500",
+          "value": "#84cc16"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 85 / 44.91% / 34.51%",
+          "varname": "palette-lime-600",
+          "value": "#65a30d"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 86 / 78.42% / 27.25%",
+          "varname": "palette-lime-700",
+          "value": "#4d7c0f"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 86 / 68.97% / 22.75%",
+          "varname": "palette-lime-800",
+          "value": "#3f6212"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 88 / 61.17% / 20.2%",
+          "varname": "palette-lime-900",
+          "value": "#365314"
+        },
+        "1000": {
+          "type": "color",
+          "description": "HSL: 88 / 53.85% / 17.84%",
+          "varname": "palette-lime-1000",
+          "value": "#2f4615"
+        }
+      },
+      "GREEN": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 138 / 76.47% / 96.67%",
+          "varname": "palette-green-50",
+          "value": "#f0fdf4"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 141 / 84.21% / 92.55%",
+          "varname": "palette-green-100",
+          "value": "#dcfce7"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 141 / 78.95% / 85.1%",
+          "varname": "palette-green-200",
+          "value": "#bbf7d0"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 142 / 76.64% / 73.14%",
+          "varname": "palette-green-300",
+          "value": "#86efac"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 142 / 69.16% / 58.04%",
+          "varname": "palette-green-400",
+          "value": "#4ade80"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 142 / 58.42% / 45.29%",
+          "varname": "palette-green-500",
+          "value": "#22c55e"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 142 / 43.38% / 36.27%",
+          "varname": "palette-green-600",
+          "value": "#16a34a"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 142 / 29.64% / 29.22%",
+          "varname": "palette-green-700",
+          "value": "#15803d"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 143 / 64.23% / 24.12%",
+          "varname": "palette-green-800",
+          "value": "#166534"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 144 / 61.17% / 20.2%",
+          "varname": "palette-green-900",
+          "value": "#14532d"
+        }
+      },
+      "EMERALD": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 152 / 80.95% / 95.88%",
+          "varname": "palette-emerald-50",
+          "value": "#ecfdf5"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 149 / 80.39% / 90%",
+          "varname": "palette-emerald-100",
+          "value": "#d1fae5"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 152 / 76% / 80.39%",
+          "varname": "palette-emerald-200",
+          "value": "#a7f3d0"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 156 / 71.6% / 66.86%",
+          "varname": "palette-emerald-300",
+          "value": "#6ee7b7"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 158 / 64.37% / 51.57%",
+          "varname": "palette-emerald-400",
+          "value": "#34d399"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 160 / 54.69% / 39.41%",
+          "varname": "palette-emerald-500",
+          "value": "#10b981"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 161 / 40.85% / 30.39%",
+          "varname": "palette-emerald-600",
+          "value": "#059669"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 163 / 93.55% / 24.31%",
+          "varname": "palette-emerald-700",
+          "value": "#047857"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 163 / 88.12% / 19.8%",
+          "varname": "palette-emerald-800",
+          "value": "#065f46"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 164 / 85.71% / 16.47%",
+          "varname": "palette-emerald-900",
+          "value": "#064e3b"
+        }
+      },
+      "TEAL": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 166 / 76.47% / 96.67%",
+          "varname": "palette-teal-50",
+          "value": "#f0fdfa"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 167 / 85.45% / 89.22%",
+          "varname": "palette-teal-100",
+          "value": "#ccfbf1"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 168 / 83.78% / 78.24%",
+          "varname": "palette-teal-200",
+          "value": "#99f6e4"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 171 / 76.92% / 64.31%",
+          "varname": "palette-teal-300",
+          "value": "#5eead4"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 172 / 66.01% / 50.39%",
+          "varname": "palette-teal-400",
+          "value": "#2dd4bf"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 173 / 53.59% / 40%",
+          "varname": "palette-teal-500",
+          "value": "#14b8a6"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 175 / 38.68% / 31.57%",
+          "varname": "palette-teal-600",
+          "value": "#0d9488"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 175 / 77.44% / 26.08%",
+          "varname": "palette-teal-700",
+          "value": "#0f766e"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 176 / 69.37% / 21.76%",
+          "varname": "palette-teal-800",
+          "value": "#115e59"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 176 / 60.82% / 19.02%",
+          "varname": "palette-teal-900",
+          "value": "#134e4a"
+        }
+      },
+      "CYAN": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 183 / 100% / 96.27%",
+          "varname": "palette-cyan-50",
+          "value": "#ecfeff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 185 / 95.92% / 90.39%",
+          "varname": "palette-cyan-100",
+          "value": "#cffafe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 186 / 93.55% / 81.76%",
+          "varname": "palette-cyan-200",
+          "value": "#a5f3fc"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 187 / 92.41% / 69.02%",
+          "varname": "palette-cyan-300",
+          "value": "#67e8f9"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 188 / 85.71% / 53.33%",
+          "varname": "palette-cyan-400",
+          "value": "#22d3ee"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 189 / 70.55% / 42.75%",
+          "varname": "palette-cyan-500",
+          "value": "#06b6d4"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 192 / 52.47% / 36.47%",
+          "varname": "palette-cyan-600",
+          "value": "#0891b2"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 193 / 36.93% / 30.98%",
+          "varname": "palette-cyan-700",
+          "value": "#0e7490"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 194 / 69.57% / 27.06%",
+          "varname": "palette-cyan-800",
+          "value": "#155e75"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 196 / 63.64% / 23.73%",
+          "varname": "palette-cyan-900",
+          "value": "#164e63"
+        }
+      },
+      "SKY": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 204 / 100% / 97.06%",
+          "varname": "palette-sky-50",
+          "value": "#f0f9ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 204 / 93.75% / 93.73%",
+          "varname": "palette-sky-100",
+          "value": "#e0f2fe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 201 / 94.37% / 86.08%",
+          "varname": "palette-sky-200",
+          "value": "#bae6fd"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 199 / 95.49% / 73.92%",
+          "varname": "palette-sky-300",
+          "value": "#7dd3fc"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 198 / 93.2% / 59.61%",
+          "varname": "palette-sky-400",
+          "value": "#38bdf8"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 199 / 83.27% / 48.43%",
+          "varname": "palette-sky-500",
+          "value": "#0ea5e9"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 200 / 63.75% / 39.41%",
+          "varname": "palette-sky-600",
+          "value": "#0284c7"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 201 / 45.66% / 32.16%",
+          "varname": "palette-sky-700",
+          "value": "#0369a1"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 201 / 34.05% / 27.45%",
+          "varname": "palette-sky-800",
+          "value": "#075985"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 202 / 80.33% / 23.92%",
+          "varname": "palette-sky-900",
+          "value": "#0c4a6e"
+        }
+      },
+      "BLUE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 214 / 100% / 96.86%",
+          "varname": "palette-blue-50",
+          "value": "#eff6ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 214 / 94.59% / 92.75%",
+          "varname": "palette-blue-100",
+          "value": "#dbeafe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 213 / 96.92% / 87.25%",
+          "varname": "palette-blue-200",
+          "value": "#bfdbfe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 212 / 96.36% / 78.43%",
+          "varname": "palette-blue-300",
+          "value": "#93c5fd"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 213 / 93.9% / 67.84%",
+          "varname": "palette-blue-400",
+          "value": "#60a5fa"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 217 / 91.22% / 59.8%",
+          "varname": "palette-blue-500",
+          "value": "#3b82f6"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 221 / 83.19% / 53.33%",
+          "varname": "palette-blue-600",
+          "value": "#2563eb"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 224 / 70.57% / 48.04%",
+          "varname": "palette-blue-700",
+          "value": "#1d4ed8"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 226 / 47.54% / 40.2%",
+          "varname": "palette-blue-800",
+          "value": "#1e40af"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 224 / 31.58% / 32.94%",
+          "varname": "palette-blue-900",
+          "value": "#1e3a8a"
+        }
+      },
+      "INDIGO": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 226 / 100% / 96.67%",
+          "varname": "palette-indigo-50",
+          "value": "#eef2ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 226 / 100% / 93.92%",
+          "varname": "palette-indigo-100",
+          "value": "#e0e7ff"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 228 / 96.49% / 88.82%",
+          "varname": "palette-indigo-200",
+          "value": "#c7d2fe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 230 / 93.55% / 81.76%",
+          "varname": "palette-indigo-300",
+          "value": "#a5b4fc"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 234 / 89.47% / 73.92%",
+          "varname": "palette-indigo-400",
+          "value": "#818cf8"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 239 / 83.53% / 66.67%",
+          "varname": "palette-indigo-500",
+          "value": "#6366f1"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 243 / 75.36% / 58.63%",
+          "varname": "palette-indigo-600",
+          "value": "#4f46e5"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 245 / 57.94% / 50.59%",
+          "varname": "palette-indigo-700",
+          "value": "#4338ca"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 244 / 38.46% / 41.37%",
+          "varname": "palette-indigo-800",
+          "value": "#3730a3"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 242 / 24.78% / 34.31%",
+          "varname": "palette-indigo-900",
+          "value": "#312e81"
+        }
+      },
+      "VIOLET": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 250 / 100% / 97.65%",
+          "varname": "palette-violet-50",
+          "value": "#f5f3ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 251 / 91.3% / 95.49%",
+          "varname": "palette-violet-100",
+          "value": "#ede9fe"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 251 / 95.24% / 91.76%",
+          "varname": "palette-violet-200",
+          "value": "#ddd6fe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 252 / 94.74% / 85.1%",
+          "varname": "palette-violet-300",
+          "value": "#c4b5fd"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 91.74% / 76.27%",
+          "varname": "palette-violet-400",
+          "value": "#a78bfa"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 89.53% / 66.27%",
+          "varname": "palette-violet-500",
+          "value": "#8b5cf6"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 83.26% / 57.84%",
+          "varname": "palette-violet-600",
+          "value": "#7c3aed"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 69.96% / 50.39%",
+          "varname": "palette-violet-700",
+          "value": "#6d28d9"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 50.51% / 42.16%",
+          "varname": "palette-violet-800",
+          "value": "#5b21b6"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 36.14% / 34.9%",
+          "varname": "palette-violet-900",
+          "value": "#4c1d95"
+        }
+      },
+      "PURPULE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 98.04%",
+          "varname": "palette-purpule-50",
+          "value": "#faf5ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 95.49%",
+          "varname": "palette-purpule-100",
+          "value": "#f3e8ff"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 91.76%",
+          "varname": "palette-purpule-200",
+          "value": "#e9d5ff"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 97.37% / 85.1%",
+          "varname": "palette-purpule-300",
+          "value": "#d8b4fe"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 95.24% / 75.29%",
+          "varname": "palette-purpule-400",
+          "value": "#c084fc"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 91.01% / 65.1%",
+          "varname": "palette-purpule-500",
+          "value": "#a855f7"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 81.33% / 55.88%",
+          "varname": "palette-purpule-600",
+          "value": "#9333ea"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 63.7% / 47.06%",
+          "varname": "palette-purpule-700",
+          "value": "#7e22ce"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 43.69% / 39.41%",
+          "varname": "palette-purpule-800",
+          "value": "#6b21a8"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 30.84% / 31.96%",
+          "varname": "palette-purpule-900",
+          "value": "#581c87"
+        }
+      },
+      "FUCHSIA": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 97.84%",
+          "varname": "palette-fuchsia-50",
+          "value": "#fdf4ff"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 95.49%",
+          "varname": "palette-fuchsia-100",
+          "value": "#fae8ff"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 95.83% / 90.59%",
+          "varname": "palette-fuchsia-200",
+          "value": "#f5d0fe"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 93.1% / 82.94%",
+          "varname": "palette-fuchsia-300",
+          "value": "#f0abfc"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 91.43% / 72.55%",
+          "varname": "palette-fuchsia-400",
+          "value": "#e879f9"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 84.08% / 60.59%",
+          "varname": "palette-fuchsia-500",
+          "value": "#d946ef"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 66.28% / 48.82%",
+          "varname": "palette-fuchsia-600",
+          "value": "#c026d3"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 47.88% / 39.8%",
+          "varname": "palette-fuchsia-700",
+          "value": "#a21caf"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 34.5% / 32.94%",
+          "varname": "palette-fuchsia-800",
+          "value": "#86198f"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 63.64% / 28.04%",
+          "varname": "palette-fuchsia-900",
+          "value": "#701a75"
+        }
+      },
+      "PINK": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 73.33% / 97.06%",
+          "varname": "palette-pink-50",
+          "value": "#fdf2f8"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 77.78% / 94.71%",
+          "varname": "palette-pink-100",
+          "value": "#fce7f3"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 84.62% / 89.8%",
+          "varname": "palette-pink-200",
+          "value": "#fbcfe8"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 87.1% / 81.76%",
+          "varname": "palette-pink-300",
+          "value": "#f9a8d4"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 85.53% / 70.2%",
+          "varname": "palette-pink-400",
+          "value": "#f472b6"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 81.19% / 60.39%",
+          "varname": "palette-pink-500",
+          "value": "#ec4899"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 71.43% / 50.59%",
+          "varname": "palette-pink-600",
+          "value": "#db2777"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 56.08% / 41.96%",
+          "varname": "palette-pink-700",
+          "value": "#be185d"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 40.61% / 35.29%",
+          "varname": "palette-pink-800",
+          "value": "#9d174d"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 30.14% / 30.39%",
+          "varname": "palette-pink-900",
+          "value": "#831843"
+        }
+      },
+      "ROSE": {
+        "50": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 97.25%",
+          "varname": "palette-rose-50",
+          "value": "#fff1f2"
+        },
+        "100": {
+          "type": "color",
+          "description": "HSL: 255 / 100% / 94.71%",
+          "varname": "palette-rose-100",
+          "value": "#ffe4e6"
+        },
+        "200": {
+          "type": "color",
+          "description": "HSL: 255 / 96.08% / 90%",
+          "varname": "palette-rose-200",
+          "value": "#fecdd3"
+        },
+        "300": {
+          "type": "color",
+          "description": "HSL: 255 / 95.7% / 81.76%",
+          "varname": "palette-rose-300",
+          "value": "#fda4af"
+        },
+        "400": {
+          "type": "color",
+          "description": "HSL: 255 / 94.52% / 71.37%",
+          "varname": "palette-rose-400",
+          "value": "#fb7185"
+        },
+        "500": {
+          "type": "color",
+          "description": "HSL: 255 / 89.16% / 60.2%",
+          "varname": "palette-rose-500",
+          "value": "#f43f5e"
+        },
+        "600": {
+          "type": "color",
+          "description": "HSL: 255 / 76.56% / 49.8%",
+          "varname": "palette-rose-600",
+          "value": "#e11d48"
+        },
+        "700": {
+          "type": "color",
+          "description": "HSL: 255 / 56.95% / 40.78%",
+          "varname": "palette-rose-700",
+          "value": "#be123c"
+        },
+        "800": {
+          "type": "color",
+          "description": "HSL: 255 / 42.34% / 34.71%",
+          "varname": "palette-rose-800",
+          "value": "#9f1239"
+        },
+        "900": {
+          "type": "color",
+          "description": "HSL: 255 / 32.96% / 30.39%",
+          "varname": "palette-rose-900",
+          "value": "#881337"
+        }
+      },
+      "BLACK": {
+        "DEFAULT": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 0%",
+          "varname": "palette-black",
+          "value": "#000000"
+        },
+        "half": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 0%",
+          "varname": "palette-black-half",
+          "value": "#00000080"
+        }
+      },
+      "WHITE": {
+        "DEFAULT": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 100%",
+          "varname": "palette-white",
+          "value": "#ffffff"
+        },
+        "half": {
+          "type": "color",
+          "description": "HSL: 0 / 0% / 100%",
+          "varname": "palette-white-half",
+          "value": "#ffffff80"
+        }
       }
     }
   }
